@@ -1,0 +1,399 @@
+What is the primary color of the plumage on the class's head?
+1. White
+2. Black
+3. Brown
+4. Red
+5. Blue
+6. Gray
+
+What is the size of the class relative to a pigeon?
+1. Much smaller
+2. Slightly smaller
+3. About the same
+4. Slightly larger
+5. Much larger
+6. Variable
+
+What is the predominant environment where the class is typically found?
+1. Oceanic cliffs
+2. Forest undergrowth
+3. Marshland
+4. Open grassland
+5. Desert areas
+6. Urban settings
+
+Does the class have any visible ornamentation on the beak or face?
+1. Bright coloration
+2. Crest or horn
+3. Wattle or dewlap
+4. Thick curved bill
+5. Mask-like markings
+6. None of the above
+
+What is the typical wing shape of the class in flight?
+1. Long and narrow
+2. Broad and rounded
+3. Pointed and swept back
+4. Stubby and short
+5. Medium with slotted tips
+6. Irregular or angular
+
+What is the general tail shape of the class?
+1. Forked
+2. Rounded
+3. Square
+4. Long and pointed
+5. Short and stubby
+6. Tapered
+
+What is the primary color of the underparts of the class?
+1. White
+2. Yellow
+3. Orange
+4. Gray
+5. Brown
+6. Black
+
+What is the beak shape of the class best suited for?
+1. Cracking seeds
+2. Spearing fish
+3. Probing for insects
+4. Tearing flesh
+5. Skimming water
+6. Singing/display
+
+What is the class’s typical posture when perched?
+1. Upright and alert
+2. Horizontal and low
+3. Tilted downward
+4. Crest erect
+5. Body fluffed up
+6. Tail cocked
+
+What is the leg length of the class relative to its body?
+1. Very short
+2. Short
+3. Medium
+4. Long
+5. Extremely long
+6. Variable
+
+Does the class typically have eye markings?
+1. Eye stripe
+2. Eye ring
+3. Dark eyespot
+4. Bold facial mask
+5. Contrasting eyebrow
+6. No distinctive marking
+
+What is the main plumage pattern of the class?
+1. Solid color
+2. Spotted
+3. Striped
+4. Iridescent
+5. Mottled
+6. Streaked
+
+What kind of crest or head adornment does the class display?
+1. Feathery crest
+2. Bare skin patch
+3. Rounded puff
+4. Sharp spike
+5. Curled feathers
+6. None
+
+What is the most noticeable feature of the class in silhouette?
+1. Large wingspan
+2. Long tail
+3. Thick neck
+4. Rounded body
+5. Thin bill
+6. Crest or horn
+
+What type of coloration does the class show on the wings?
+1. Contrasting patch
+2. Uniform color
+3. Iridescent shimmer
+4. Barring or stripes
+5. Bright edging
+6. Speckled pattern
+
+What kind of foot webbing or toe structure does the class have?
+1. Fully webbed
+2. Partially webbed
+3. Lobed toes
+4. Perching toes
+5. Clawed with zygodactyl grip
+6. Minimal webbing
+
+What is the predominant shape of the beak for the class?
+1. Hooked
+2. Straight and slender
+3. Thick and conical
+4. Long and down-curved
+5. Flat and wide
+6. Short and stubby
+
+Does the class show any noticeable sexual dimorphism?
+1. Males are more colorful
+2. Females are larger
+3. Different crest sizes
+4. Only males have ornamentation
+5. Only during breeding season
+6. No dimorphism
+
+How does the class typically forage?
+1. In flight
+2. On the ground
+3. In trees
+4. In water
+5. Probing in bark
+6. Hovering near flowers
+
+What is the primary color of the class's tail feathers?
+1. Black
+2. White
+3. Brown
+4. Red
+5. Yellow
+6. Blue
+
+How many primary colors are typically seen in the class’s plumage?
+1. One
+2. Two
+3. Three
+4. Four
+5. Five
+6. More than five
+
+What is the wing position of the class during gliding or soaring?
+1. Straight and stiff
+2. Curved upwards
+3. Angled downward
+4. Tucked in
+5. Slight dihedral
+6. Fluttering
+
+What is the class’s likely nesting site?
+1. Tree branches
+2. Cliffs
+3. Ground
+4. Cavities
+5. Reeds
+6. Urban structures
+
+What kind of motion does the class use when moving on the ground?
+1. Hopping
+2. Walking
+3. Waddling
+4. Skipping
+5. Bounding
+6. Gliding
+
+What is the general body shape of the class?
+1. Round
+2. Streamlined
+3. Slender
+4. Bulky
+5. Upright
+6. Squat
+
+What is the length of the class’s bill relative to head size?
+1. Much shorter
+2. Slightly shorter
+3. Equal
+4. Slightly longer
+5. Much longer
+6. Variable
+
+What color is most prominent in the class’s back feathers?
+1. Brown
+2. Gray
+3. Black
+4. Green
+5. Blue
+6. Red
+
+What is the typical flocking behavior of the class?
+1. Solitary
+2. Pairs
+3. Small flocks
+4. Large flocks
+5. Mixed species groups
+6. Breeding colonies
+
+Is the class known for a particular type of vocalization?
+1. Complex songs
+2. Harsh calls
+3. Mechanical sounds
+4. Mimicry
+5. Whistles
+6. Silent
+
+What type of flight behavior does the class show?
+1. Soaring
+2. Hovering
+3. Flapping
+4. Gliding
+5. Darting
+6. Bounding
+
+Does the class show seasonal plumage changes?
+1. Yes, dramatic
+2. Yes, moderate
+3. Yes, slight
+4. No, consistent
+5. Only juveniles
+6. Only during molting
+
+What is the shape of the nostrils on the class’s bill?
+1. Slit-like
+2. Round
+3. Covered by feathers
+4. Tubular
+5. Indistinct
+6. Oval
+
+How does the class perch on branches?
+1. Flat footed
+2. Claw-first
+3. With zygodactyl grip
+4. Sideways
+5. Clinging to bark
+6. Tail supported
+
+What is the dominant tone of the class’s upper wing feathers?
+1. Light gray
+2. Dark brown
+3. Black
+4. Iridescent
+5. Blue
+6. Mottled
+
+What habitat edge is the class most associated with?
+1. Forest edge
+2. Open water
+3. Mountain slopes
+4. Desert scrub
+5. Farmland
+6. Coastal beach
+
+How does the class typically hold its wings while resting?
+1. Folded flat
+2. Crossed
+3. Drooped
+4. Held upright
+5. Tucked under body
+6. Slightly lifted
+
+What is the overall contrast in the class’s coloration?
+1. High contrast
+2. Medium contrast
+3. Low contrast
+4. Bright against dull
+5. Uniform tone
+6. Vivid color blocks
+
+How does the class’s beak tip appear?
+1. Hooked
+2. Flat
+3. Blunt
+4. Sharply pointed
+5. Slight curve
+6. Tapered
+
+What is the primary activity period of the class?
+1. Diurnal
+2. Nocturnal
+3. Crepuscular
+4. Variable
+5. Mostly dawn
+6. Mostly dusk
+
+What part of the class is most colorful?
+1. Head
+2. Breast
+3. Wings
+4. Tail
+5. Belly
+6. Uniformly colorful
+
+What structural feature best identifies the class in flight?
+1. Wingtip shape
+2. Tail spread
+3. Head-neck length
+4. Feet position
+5. Beak silhouette
+6. Body to wing ratio
+
+How does the class behave in response to predators?
+1. Freeze in place
+2. Flock tightly
+3. Dive into cover
+4. Rise vertically
+5. Loud alarm call
+6. Mimic predators
+
+Which feather region is most likely to have iridescence in the class?
+1. Crown
+2. Throat
+3. Wings
+4. Tail
+5. Back
+6. Belly
+
+What is the typical eye color of the class?
+1. Black
+2. Red
+3. Yellow
+4. Brown
+5. White
+6. Blue
+
+What is the most likely shape of the class’s silhouette when standing?
+1. Teardrop
+2. Oval
+3. T-shaped
+4. Upright oval
+5. Boxy
+6. Slender cone
+
+How does the class often interact with water?
+1. Swimming
+2. Diving
+3. Skimming
+4. Wading
+5. Avoids water
+6. Drinks only
+
+What is the class’s typical facial expression or impression?
+1. Fierce
+2. Gentle
+3. Alert
+4. Sleepy
+5. Curious
+6. Stern
+
+What is the most common color of the class’s legs and feet?
+1. Yellow
+2. Pink
+3. Black
+4. Blue
+5. Red
+6. Gray
+
+What is the dominant impression the class gives at a distance?
+1. Dart-like
+2. Elegant
+3. Bulky
+4. Round
+5. Flashy
+6. Neutral
+
+What kind of visual symmetry does the class display when viewed from the front?
+1. Perfect bilateral symmetry
+2. Slight asymmetry
+3. Bold vertical symmetry
+4. Radial features around the face
+5. Uneven color distribution
+6. Symmetry disrupted by crest or markings

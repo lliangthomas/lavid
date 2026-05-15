@@ -1,0 +1,348 @@
+What type of coat does the class have?  
+    1. Long and fluffy  
+    2. Short and sleek  
+    3. Curly  
+    4. Hairless  
+    5. Medium and dense  
+
+What is the primary color pattern of the class?  
+    1. Solid  
+    2. Spotted  
+    3. Striped  
+    4. Bicolor  
+    5. Tricolor  
+
+How large is the class compared to average household pets?  
+    1. Very small  
+    2. Small  
+    3. Medium  
+    4. Large  
+    5. Very large  
+
+What is the shape of the class’s ears?  
+    1. Pointed and upright  
+    2. Floppy and long  
+    3. Semi-floppy  
+    4. Small and rounded  
+    5. Large and wide  
+
+What is the tail like on the class?  
+    1. Bushy and long  
+    2. Short and curled  
+    3. Long and sleek  
+    4. Thin and whip-like  
+    5. Thick and straight  
+
+How does the class's face appear?  
+    1. Flat with a pushed-in nose  
+    2. Long and narrow  
+    3. Broad with defined features  
+    4. Round and compact  
+    5. Triangular  
+
+How much fur does the class appear to shed visually?  
+    1. A lot  
+    2. A moderate amount  
+    3. Very little  
+    4. None  
+
+What is the general shape of the class’s body?  
+    1. Stocky and muscular  
+    2. Slim and elongated  
+    3. Compact and square  
+    4. Tall and lean  
+    5. Broad and heavyset  
+
+What kind of paws does the class have?  
+    1. Large and furry  
+    2. Small and dainty  
+    3. Wide and padded  
+    4. Long and slender  
+    5. Compact with feathering  
+
+What is the eye shape of the class?  
+    1. Round and large  
+    2. Almond-shaped  
+    3. Narrow and intense  
+    4. Oval and soft  
+    5. Slanted and exotic  
+
+What kind of snout does the class have?  
+    1. Very short  
+    2. Medium length  
+    3. Long and drooping  
+    4. Square and wide  
+    5. Tapered and pointed  
+
+What does the coat pattern of the class suggest?  
+    1. Wild ancestry  
+    2. Delicate breeding  
+    3. Working class purpose  
+    4. Lap companion history  
+    5. Hunting capability  
+
+What texture is the coat of the class?  
+    1. Silky  
+    2. Wiry  
+    3. Smooth  
+    4. Fluffy  
+    5. Coarse  
+
+What best describes the eyes of the class in color?  
+    1. Blue  
+    2. Green  
+    3. Gold  
+    4. Brown  
+    5. Heterochromatic  
+
+How does the class carry itself visually?  
+    1. Proud and alert  
+    2. Low to the ground  
+    3. Graceful and fluid  
+    4. Bold and sturdy  
+    5. Light and bouncy  
+
+How is the class's chest visually built?  
+    1. Deep and wide  
+    2. Narrow and tucked  
+    3. Rounded and soft  
+    4. Prominent and muscular  
+    5. Barely noticeable  
+
+How much grooming might the class visually appear to need?  
+    1. Daily and thorough  
+    2. Weekly maintenance  
+    3. Minimal touch-ups  
+    4. Occasional brushing  
+    5. No grooming needed  
+
+What is the nose shape of the class?  
+    1. Small and upturned  
+    2. Large and broad  
+    3. Pointed and sleek  
+    4. Flat and wide  
+    5. Droopy and long  
+
+What would the class’s silhouette most resemble?  
+    1. A cloud  
+    2. A sleek dart  
+    3. A rectangle  
+    4. A rounded loaf  
+    5. A cone  
+
+How alert do the ears of the class appear?  
+    1. Always upright and attentive  
+    2. Floppy and relaxed  
+    3. One up, one down  
+    4. Hidden under fur  
+    5. Small and barely visible  
+
+How long are the legs of the class visually?  
+    1. Very short  
+    2. Short  
+    3. Medium  
+    4. Long  
+    5. Very long  
+
+What kind of grooming features does the class have?  
+    1. Feathering on legs and tail  
+    2. Uniform coat  
+    3. Frills around neck  
+    4. Tufted ears  
+    5. No visible extras  
+
+What is the overall head shape of the class?  
+    1. Square  
+    2. Round  
+    3. Triangular  
+    4. Oval  
+    5. Irregular  
+
+Where does the class visually appear most adapted to?  
+    1. Cold mountains  
+    2. Warm homes  
+    3. Wet terrain  
+    4. Urban streets  
+    5. Open fields  
+
+How is the class’s jaw structured?  
+    1. Prominent underbite  
+    2. Long upper jaw  
+    3. Balanced and hidden  
+    4. Slightly protruding  
+    5. Short and even  
+
+What best describes the energy seen in the posture of the class?  
+    1. Calm and still  
+    2. Playful and energetic  
+    3. Alert and tense  
+    4. Gentle and slow  
+    5. Powerful and driven  
+
+What is the muzzle texture like for the class?  
+    1. Smooth and short  
+    2. Wrinkled and wide  
+    3. Long and narrow  
+    4. Dry and leathery  
+    5. Hidden by fur  
+
+How is the class’s tail generally positioned?  
+    1. Curled over the back  
+    2. Drooping down  
+    3. Straight out  
+    4. Wagging at all times  
+    5. Tucked underneath  
+
+What does the chest fur of the class look like?  
+    1. Very full  
+    2. Short and neat  
+    3. No fur  
+    4. Medium with fringe  
+    5. Patchy  
+
+How would you describe the class’s backline visually?  
+    1. Sloped  
+    2. Level  
+    3. Arched  
+    4. Dipped  
+    5. Straight but angled  
+
+How do the eyes of the class appear emotionally?  
+    1. Intense  
+    2. Gentle  
+    3. Curious  
+    4. Sleepy  
+    5. Mischievous  
+
+How are the whiskers of the class visually?  
+    1. Prominent and long  
+    2. Barely visible  
+    3. Sparse  
+    4. Curled and decorative  
+    5. Medium and straight  
+
+What is the foot structure of the class like?  
+    1. Webbed  
+    2. Hairy and hidden  
+    3. Clean and tight  
+    4. Spread and flat  
+    5. Round and compact  
+
+What is the class’s body fur length distribution like?  
+    1. Long all over  
+    2. Short all over  
+    3. Long on specific areas  
+    4. Bare in patches  
+    5. Medium with texture changes  
+
+How does the class’s nose color appear?  
+    1. Black  
+    2. Pink  
+    3. Brown  
+    4. Grey  
+    5. Speckled  
+
+What kind of facial markings does the class have?  
+    1. Mask  
+    2. Blaze  
+    3. Muzzle spot  
+    4. Solid face  
+    5. Mixed features  
+
+What does the belly of the class look like?  
+    1. Fluffy  
+    2. Hairless  
+    3. Thin fur  
+    4. Spotted  
+    5. Short and dense  
+
+How does the class behave in appearance when standing still?  
+    1. Posed and elegant  
+    2. Relaxed and natural  
+    3. Hunched and focused  
+    4. Upright and firm  
+    5. Resting heavily  
+
+What are the eyes set like in the class’s face?  
+    1. Wide apart  
+    2. Close together  
+    3. Deep-set  
+    4. Bulging  
+    5. Evenly spaced  
+
+What would the fur on the tail of the class most resemble?  
+    1. A plume  
+    2. A stick  
+    3. A curl  
+    4. A streamer  
+    5. A puffball  
+
+How defined are the eyebrows of the class?  
+    1. Prominent tufts  
+    2. Barely visible  
+    3. Subtle shading  
+    4. Contrasting color  
+    5. Carved furrows  
+
+What is the shape of the class’s body from a top view?  
+    1. Hourglass  
+    2. Oval  
+    3. Rectangle  
+    4. Pear  
+    5. Irregular  
+
+What is the class’s fur like at the paws?  
+    1. Extra tufts  
+    2. None  
+    3. Thick socks  
+    4. Trimmed  
+    5. Blended into legs  
+
+What does the tail movement suggest about the class?  
+    1. Constant wag  
+    2. Twitchy and slow  
+    3. Rarely used  
+    4. Expressive arcs  
+    5. Floppy motion  
+
+What kind of chin structure does the class have?  
+    1. Sharp  
+    2. Flat  
+    3. Bulky  
+    4. Sloped  
+    5. Hidden  
+
+What does the environment around the class suggest?  
+    1. Indoors and pampered  
+    2. Outdoors and rugged  
+    3. Urban companion  
+    4. Country-bound  
+    5. Adventure-ready  
+
+How defined are the cheekbones of the class?  
+    1. High and sharp  
+    2. Hidden in fur  
+    3. Round and full  
+    4. Flat and wide  
+    5. Low and narrow  
+
+What kind of neck does the class visually appear to have?  
+    1. Long and slender  
+    2. Short and thick  
+    3. Medium and fluffy  
+    4. Bare and muscular  
+    5. Undefined  
+
+How prominent is the class’s undercoat visually?  
+    1. Very thick  
+    2. Light  
+    3. None visible  
+    4. Moderate  
+    5. Only in patches  
+
+How likely does the class appear suited to cold climates?  
+    1. Highly likely  
+    2. Moderately likely  
+    3. Not suited  
+    4. Needs clothing  
+    5. Adaptable with grooming

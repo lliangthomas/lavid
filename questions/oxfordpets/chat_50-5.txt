@@ -1,0 +1,349 @@
+What kind of coat texture best represents the class?  
+    1. Silky and long  
+    2. Short and sleek  
+    3. Curly or wavy  
+    4. Dense and fluffy  
+    5. Smooth and short  
+
+Which body size would best describe the class?  
+    1. Toy-sized  
+    2. Small  
+    3. Medium  
+    4. Large  
+    5. Giant  
+
+What is the primary ear shape of the class?  
+    1. Pointed and erect  
+    2. Drooping and long  
+    3. Semi-floppy  
+    4. Rounded  
+    5. Folded down  
+
+How active is the class generally known to be?  
+    1. Very low energy  
+    2. Low to moderate  
+    3. Moderate  
+    4. High  
+    5. Extremely energetic  
+
+What is the typical tail characteristic of the class?  
+    1. Curled tightly  
+    2. Straight and long  
+    3. Short and stubby  
+    4. Plumed and fluffy  
+    5. Tapered and thin  
+
+What kind of muzzle length does the class have?  
+    1. Very short (flat-faced)  
+    2. Short  
+    3. Medium  
+    4. Long  
+    5. Very long and narrow  
+
+How does the class typically respond to strangers?  
+    1. Very aloof  
+    2. Reserved but polite  
+    3. Neutral  
+    4. Friendly  
+    5. Extremely social  
+
+What grooming need best fits the class?  
+    1. Very minimal  
+    2. Occasional brushing  
+    3. Regular brushing  
+    4. Daily grooming  
+    5. Professional grooming required  
+
+What is the typical weight range of the class?  
+    1. Under 10 lbs  
+    2. 10–20 lbs  
+    3. 20–40 lbs  
+    4. 40–80 lbs  
+    5. Over 80 lbs  
+
+What kind of eye shape best represents the class?  
+    1. Almond-shaped  
+    2. Round  
+    3. Oval  
+    4. Deep-set  
+    5. Prominent and bulging  
+
+What environment does the class thrive in?  
+    1. Apartment living  
+    2. Suburban homes  
+    3. Farms and open areas  
+    4. Cold climates  
+    5. Warm climates  
+
+What kind of head shape characterizes the class?  
+    1. Flat and wide  
+    2. Dome-shaped  
+    3. Wedge-shaped  
+    4. Rectangular  
+    5. Narrow and long  
+
+What sound level does the class usually produce?  
+    1. Almost silent  
+    2. Quiet most of the time  
+    3. Occasional barking or meowing  
+    4. Frequent vocalizations  
+    5. Very loud and persistent  
+
+How loyal is the class to its family?  
+    1. Independent  
+    2. Somewhat loyal  
+    3. Loyal  
+    4. Very loyal  
+    5. Fiercely devoted  
+
+What energy outlet does the class prefer?  
+    1. Climbing and jumping  
+    2. Running and chasing  
+    3. Walking and sniffing  
+    4. Lounging and cuddling  
+    5. Swimming and pulling  
+
+What face structure defines the class?  
+    1. Flat and pushed-in  
+    2. Broad and boxy  
+    3. Angular and sharp  
+    4. Narrow and delicate  
+    5. Long and proportionate  
+
+What kind of paw size is typical of the class?  
+    1. Tiny and delicate  
+    2. Small and round  
+    3. Medium-sized  
+    4. Large and padded  
+    5. Massive and furry  
+
+What’s the usual fur pattern found in the class?  
+    1. Solid color  
+    2. Striped or spotted  
+    3. Bicolor  
+    4. Tricolor  
+    5. Gradient or pointed  
+
+How independent is the class from human interaction?  
+    1. Extremely independent  
+    2. Mostly independent  
+    3. Balanced  
+    4. People-oriented  
+    5. Constantly seeking attention  
+
+What is the most defining personality trait of the class?  
+    1. Playful  
+    2. Stubborn  
+    3. Intelligent  
+    4. Gentle  
+    5. Protective  
+
+How commonly is the class seen with children?  
+    1. Rarely suitable  
+    2. Occasionally suitable  
+    3. Neutral  
+    4. Generally good  
+    5. Excellent with kids  
+
+What kind of climate does the class tolerate best?  
+    1. Hot and dry  
+    2. Warm and humid  
+    3. Temperate  
+    4. Cool  
+    5. Freezing and snowy  
+
+How long is the typical lifespan of the class?  
+    1. Less than 8 years  
+    2. 8–10 years  
+    3. 11–13 years  
+    4. 14–16 years  
+    5. 17+ years  
+
+What kind of body structure is most common for the class?  
+    1. Compact and muscular  
+    2. Long and lean  
+    3. Short and stout  
+    4. Slender and flexible  
+    5. Broad and heavyset  
+
+What kind of hunting instinct does the class retain?  
+    1. None  
+    2. Very low  
+    3. Moderate  
+    4. High  
+    5. Extremely strong  
+
+What behavior best characterizes the class at home?  
+    1. Always alert  
+    2. Calm and collected  
+    3. Easily startled  
+    4. Sleeps often  
+    5. Constantly active  
+
+How trainable is the class generally considered?  
+    1. Very difficult to train  
+    2. Needs lots of repetition  
+    3. Learns with effort  
+    4. Picks up commands quickly  
+    5. Highly trainable and eager  
+
+How commonly does the class shed?  
+    1. Doesn’t shed  
+    2. Very rarely  
+    3. Moderate shedding  
+    4. Frequent shedding  
+    5. Constant heavy shedding  
+
+What is the typical leg length relative to the class body?  
+    1. Very short legs  
+    2. Short legs  
+    3. Medium legs  
+    4. Long legs  
+    5. Extremely long legs  
+
+How agile is the class?  
+    1. Not agile  
+    2. Slightly agile  
+    3. Moderately agile  
+    4. Agile  
+    5. Extremely agile  
+
+What’s the class’s reaction to new environments?  
+    1. Nervous and fearful  
+    2. Cautious but curious  
+    3. Neutral  
+    4. Adventurous  
+    5. Enthusiastic explorer  
+
+What is the typical eye color range of the class?  
+    1. Blue  
+    2. Green  
+    3. Amber  
+    4. Yellow  
+    5. Brown  
+
+What is the class most likely to do when left alone?  
+    1. Sleep or relax  
+    2. Explore the house  
+    3. Vocalize loudly  
+    4. Get destructive  
+    5. Wait by the door  
+
+What kind of body temperature tolerance describes the class?  
+    1. Heat-sensitive  
+    2. Prefers warmth  
+    3. Neutral  
+    4. Enjoys cold  
+    5. Cold-weather specialist  
+
+How social is the class with other animals?  
+    1. Hostile  
+    2. Tolerant  
+    3. Neutral  
+    4. Friendly  
+    5. Seeks companionship  
+
+What is the most typical vocal tone of the class?  
+    1. Deep and rumbling  
+    2. Sharp and high-pitched  
+    3. Soft and mellow  
+    4. Chirping or yowling  
+    5. Growling or grunting  
+
+What type of activity does the class most enjoy?  
+    1. Fetching or retrieving  
+    2. Tracking or sniffing  
+    3. Jumping and climbing  
+    4. Herding or guarding  
+    5. Lap-sitting or snuggling  
+
+What best describes the class’s facial expression range?  
+    1. Stoic and unreadable  
+    2. Mildly expressive  
+    3. Frequently expressive  
+    4. Highly reactive  
+    5. Extremely animated  
+
+What defines the class's historical role?  
+    1. Companion animal  
+    2. Hunting breed  
+    3. Guard or protection  
+    4. Herding  
+    5. Lap pet or luxury breed  
+
+What is the typical gait or movement of the class?  
+    1. Trotting smoothly  
+    2. Bouncing with energy  
+    3. Rolling or swaying  
+    4. Fast and precise  
+    5. Heavy and lumbering  
+
+What best describes the class's level of stubbornness?  
+    1. Always obedient  
+    2. Rarely defiant  
+    3. Occasionally stubborn  
+    4. Frequently stubborn  
+    5. Very headstrong  
+
+What kind of social bond does the class typically form?  
+    1. One-person attachment  
+    2. Pair bonding  
+    3. Family-oriented  
+    4. Group social  
+    5. No preference  
+
+What kind of nose shape is most characteristic of the class?  
+    1. Flat nose  
+    2. Short snout  
+    3. Average snout  
+    4. Long muzzle  
+    5. Pointed nose  
+
+What level of drooling is most associated with the class?  
+    1. No drooling  
+    2. Rarely drools  
+    3. Occasional drooling  
+    4. Regular drooling  
+    5. Constant drooling  
+
+What amount of exercise does the class require daily?  
+    1. Very little  
+    2. 15–30 minutes  
+    3. 30–60 minutes  
+    4. 60–90 minutes  
+    5. Over 90 minutes  
+
+What best describes the fur density of the class?  
+    1. Sparse and fine  
+    2. Light and silky  
+    3. Medium-density  
+    4. Thick  
+    5. Extremely dense and insulating  
+
+What is the class’s sensitivity to loud noises?  
+    1. Very sensitive  
+    2. Somewhat sensitive  
+    3. Neutral  
+    4. Rarely reacts  
+    5. Completely unfazed  
+
+What sleeping habits does the class exhibit?  
+    1. Sleeps most of the day  
+    2. Naps periodically  
+    3. Balanced activity/rest  
+    4. Active during the day  
+    5. Sleeps mostly at night  
+
+What kind of intelligence does the class exhibit most?  
+    1. Instinctive  
+    2. Adaptive  
+    3. Working  
+    4. Social  
+    5. Problem-solving  
+
+What is the primary body length-to-height ratio of the class?  
+    1. Long and low  
+    2. Square and compact  
+    3. Tall and slim  
+    4. Broad and balanced  
+    5. Short and boxy

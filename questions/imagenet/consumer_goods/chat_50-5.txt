@@ -1,0 +1,349 @@
+What material is most often associated with the class?  
+    1. Metal  
+    2. Fabric  
+    3. Plastic  
+    4. Fur  
+    5. Ceramic  
+
+What part of the body does the class primarily interact with?  
+    1. Head  
+    2. Torso  
+    3. Legs  
+    4. Feet  
+    5. Full body  
+
+Which environment is the class most likely found in?  
+    1. Kitchen  
+    2. Bedroom  
+    3. Sports field  
+    4. Church  
+    5. Factory  
+
+What size is the class relative to a person?  
+    1. Smaller than a hand  
+    2. Fits the head  
+    3. Fits the torso  
+    4. Covers the full body  
+    5. Larger than a person  
+
+Is the class typically worn or used?  
+    1. Worn on the head  
+    2. Worn on the torso  
+    3. Worn on the legs  
+    4. Used in the kitchen  
+    5. Used for cleaning  
+
+What is the texture of the class?  
+    1. Smooth and shiny  
+    2. Soft and fluffy  
+    3. Rough and rugged  
+    4. Hard and solid  
+    5. Stretchy and flexible  
+
+How is the class commonly secured or attached?  
+    1. Tied with strings  
+    2. Fastened with buttons  
+    3. Zipped up  
+    4. Strapped or belted  
+    5. Placed or draped  
+
+What is the typical color palette of the class?  
+    1. White or light tones  
+    2. Dark or muted tones  
+    3. Bright and vivid colors  
+    4. Metallic finishes  
+    5. Mixed and patterned  
+
+Does the class mainly serve a practical or decorative purpose?  
+    1. Purely functional  
+    2. Mostly decorative  
+    3. Equally both  
+    4. Protective function  
+    5. Symbolic significance  
+
+What season is the class most associated with?  
+    1. Winter  
+    2. Spring  
+    3. Summer  
+    4. Fall  
+    5. All year  
+
+Which describes the typical movement or flexibility of the class?  
+    1. Very stiff  
+    2. Slightly rigid  
+    3. Soft and flowy  
+    4. Highly flexible  
+    5. Mechanical movement  
+
+What traditional setting is the class associated with?  
+    1. Academic ceremony  
+    2. Military service  
+    3. Cooking at home  
+    4. Sporting event  
+    5. Religious ritual  
+
+What is the general form of the class?  
+    1. Cylindrical  
+    2. Flat and broad  
+    3. Fitted to the body  
+    4. Loose and draping  
+    5. Box-like  
+
+What type of fastener is most associated with the class?  
+    1. Buckle  
+    2. Velcro  
+    3. Button  
+    4. Zipper  
+    5. None  
+
+What layer is the class typically worn at?  
+    1. Innermost layer  
+    2. Middle layer  
+    3. Outer layer  
+    4. Only during ceremonies  
+    5. Used independently  
+
+Which temperature condition is the class most suitable for?  
+    1. Cold weather  
+    2. Hot weather  
+    3. Wet conditions  
+    4. Controlled indoor temperature  
+    5. Varying climates  
+
+What level of protection does the class provide?  
+    1. Full body protection  
+    2. Partial protection  
+    3. Protection from the elements  
+    4. Decorative protection  
+    5. No protection  
+
+What is the primary method of cleaning the class?  
+    1. Machine washable  
+    2. Dry clean only  
+    3. Hand wash  
+    4. Wipe clean  
+    5. Not cleaned often  
+
+What is the typical construction method of the class?  
+    1. Knitted or crocheted  
+    2. Woven fabric  
+    3. Molded material  
+    4. Tailored with seams  
+    5. Manufactured assembly  
+
+What is the overall appearance of the class?  
+    1. Elegant and formal  
+    2. Casual and comfortable  
+    3. Protective and durable  
+    4. Flashy and eye-catching  
+    5. Plain and functional  
+
+Is the class more often seen indoors or outdoors?  
+    1. Strictly indoors  
+    2. Mostly indoors  
+    3. Equally indoors and outdoors  
+    4. Mostly outdoors  
+    5. Strictly outdoors  
+
+What is the origin of the class’s cultural significance?  
+    1. Western traditions  
+    2. Asian traditions  
+    3. Indigenous traditions  
+    4. Religious practices  
+    5. Modern invention  
+
+What is the typical target user for the class?  
+    1. Babies and toddlers  
+    2. Children  
+    3. Adults  
+    4. Seniors  
+    5. Universal  
+
+What kind of event is the class most commonly worn or used at?  
+    1. Formal ceremonies  
+    2. Daily casual activities  
+    3. Competitive sports  
+    4. Cooking or food preparation  
+    5. Cleaning or household chores  
+
+What degree of ornamentation is typical for the class?  
+    1. Highly decorated  
+    2. Lightly embellished  
+    3. Plain and simple  
+    4. Patterned fabrics  
+    5. No decoration  
+
+What is the dominant visual shape of the class?  
+    1. Rectangular  
+    2. Rounded  
+    3. Triangular  
+    4. Cylindrical  
+    5. Irregular  
+
+What is the main function of the class?  
+    1. Clothing  
+    2. Cooking equipment  
+    3. Cleaning equipment  
+    4. Protective gear  
+    5. Decorative accessory  
+
+Is the class typically form-fitting or loose?  
+    1. Tight fitting  
+    2. Semi-fitted  
+    3. Loose fitting  
+    4. Changes based on use  
+    5. No fit (non-wearable)  
+
+What’s the primary visual detail in the class?  
+    1. Smooth surfaces  
+    2. Furry textures  
+    3. Shiny metallic parts  
+    4. Flowing fabric  
+    5. Compact structure  
+
+Is the class usually visible to others when in use?  
+    1. Always visible  
+    2. Sometimes visible  
+    3. Rarely visible  
+    4. Only in special cases  
+    5. Never meant to be seen  
+
+What kind of craftsmanship is highlighted in the class?  
+    1. Tailoring and sewing  
+    2. Metalwork  
+    3. Weaving and knitting  
+    4. Molded manufacturing  
+    5. Culinary engineering  
+
+What season’s fashion is the class typically part of?  
+    1. Spring collection  
+    2. Summer collection  
+    3. Fall collection  
+    4. Winter collection  
+    5. All seasons  
+
+What sounds does the class often make?  
+    1. No sound  
+    2. Ruffling or rustling  
+    3. Clicking or clanking  
+    4. Mechanical whirring  
+    5. Splashing or water sounds  
+
+What is the main mode of power for the class (if applicable)?  
+    1. Manual use  
+    2. Battery powered  
+    3. Plugged into wall  
+    4. Powered by gas  
+    5. No power needed  
+
+What describes the way the class interacts with water?  
+    1. Water resistant  
+    2. Water absorbing  
+    3. Water repelling  
+    4. Meant for water use  
+    5. Damaged by water  
+
+What is the typical length or size of the class?  
+    1. Small handheld  
+    2. Head sized  
+    3. Torso length  
+    4. Full body size  
+    5. Larger than body  
+
+What gender association does the class typically have?  
+    1. Male  
+    2. Female  
+    3. Unisex  
+    4. Child specific  
+    5. None  
+
+Which describes the common age of the class design?  
+    1. Ancient or traditional  
+    2. 19th century origins  
+    3. Early 20th century  
+    4. Late 20th century  
+    5. Very modern  
+
+What key feature is visually dominant in the class?  
+    1. Long flowing fabric  
+    2. Thick padding  
+    3. Hard shiny surfaces  
+    4. Thin tight material  
+    5. Decorative accents  
+
+How complex is the construction of the class?  
+    1. Extremely simple  
+    2. Basic but detailed  
+    3. Complex stitching  
+    4. Mechanically intricate  
+    5. Highly engineered  
+
+How does the class typically close or open?  
+    1. Tied shut  
+    2. Buttoned  
+    3. Zipped  
+    4. Snapped  
+    5. Hinged  
+
+What defines the thickness of the class visually?  
+    1. Very thin  
+    2. Medium thickness  
+    3. Bulky and thick  
+    4. Variable thickness  
+    5. Not applicable  
+
+What is the main activity associated with using the class?  
+    1. Dressing up  
+    2. Playing sports  
+    3. Cooking meals  
+    4. Cleaning tasks  
+    5. Professional ceremonies  
+
+What is the tactile experience when touching the class?  
+    1. Silky  
+    2. Rough  
+    3. Hard and cold  
+    4. Soft and warm  
+    5. Smooth plastic  
+
+What is the key visual contrast used in the class design?  
+    1. Light vs dark colors  
+    2. Matte vs shiny surfaces  
+    3. Smooth vs textured areas  
+    4. Soft vs hard parts  
+    5. Flat vs raised patterns  
+
+Where is the class typically stored when not in use?  
+    1. Closet or wardrobe  
+    2. Kitchen counter  
+    3. Utility room  
+    4. Storage box  
+    5. Hung on wall  
+
+What type of embellishment is most common on the class?  
+    1. Embroidery  
+    2. Sequins  
+    3. Beading  
+    4. Plain fabric  
+    5. Attached accessories  
+
+Which body part is most protected by the class (if applicable)?  
+    1. Head  
+    2. Chest  
+    3. Legs  
+    4. Full body  
+    5. None  
+
+Which action is essential for using or wearing the class?  
+    1. Slipping on  
+    2. Tying or fastening  
+    3. Buckling  
+    4. Lifting and placing  
+    5. Pressing buttons  
+
+What’s the dominant pattern found on the class?  
+    1. Stripes  
+    2. Floral prints  
+    3. Solid colors  
+    4. Plaid patterns  
+    5. Abstract designs

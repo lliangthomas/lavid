@@ -1,0 +1,349 @@
+What is the primary body shape of the class?  
+    1. Coupe  
+    2. Sedan  
+    3. SUV  
+    4. Hatchback  
+    5. Convertible  
+
+What type of grille design is most dominant on the front of the class?  
+    1. Horizontal slats  
+    2. Honeycomb mesh  
+    3. Vertical bars  
+    4. Solid panel  
+    5. Large open trapezoid  
+
+How many doors does the class have?  
+    1. Two  
+    2. Four  
+    3. Three  
+    4. Sliding  
+    5. Rear-hinged  
+
+How high does the class sit off the ground compared to other vehicles?  
+    1. Very high  
+    2. High  
+    3. Medium  
+    4. Low  
+    5. Very low  
+
+What is the overall silhouette of the class?  
+    1. Boxy and tall  
+    2. Streamlined and long  
+    3. Short and compact  
+    4. Wide and low  
+    5. Sloped and rounded  
+
+How many visible exhaust pipes are at the rear of the class?  
+    1. One  
+    2. Two  
+    3. Four  
+    4. None  
+    5. Centered dual  
+
+Where are the door handles positioned on the class?  
+    1. Flush with body  
+    2. Standard placement  
+    3. Hidden near C-pillar  
+    4. Integrated into chrome strip  
+    5. Vertical handlebar style  
+
+What is the shape of the class’s headlights?  
+    1. Circular  
+    2. Rectangular  
+    3. Sharp and angular  
+    4. Swept-back teardrop  
+    5. Split dual lights  
+
+What material is most visually dominant on the front bumper of the class?  
+    1. Painted metal  
+    2. Matte black plastic  
+    3. Chrome accents  
+    4. Carbon fiber  
+    5. Bare aluminum  
+
+What is the wheel size appearance on the class relative to its body?  
+    1. Oversized sporty wheels  
+    2. Modest and practical  
+    3. Deep-dish and rugged  
+    4. Thin and efficient  
+    5. Medium performance  
+
+How does the class appear in terms of luxury from the exterior?  
+    1. Very high-end  
+    2. Premium  
+    3. Average  
+    4. Basic  
+    5. Utilitarian  
+
+What is the roof design of the class?  
+    1. Soft-top convertible  
+    2. Panoramic glass  
+    3. Raised SUV rails  
+    4. Sloped coupe-style  
+    5. Flat van-style  
+
+Where is the fuel cap located on the class?  
+    1. Left rear  
+    2. Right rear  
+    3. Rear center  
+    4. Hidden under flap  
+    5. On the front quarter  
+
+What type of tail lights does the class have?  
+    1. Thin LED strips  
+    2. Tall vertical  
+    3. Classic rounded  
+    4. Squared off blocks  
+    5. Long horizontal  
+
+How would you describe the side mirror design of the class?  
+    1. Small and angular  
+    2. Large and boxy  
+    3. Aerodynamic and sleek  
+    4. Chrome covered  
+    5. Integrated with turn signal  
+
+What kind of visual noise (decals, vents, body lines) is present on the class?  
+    1. Smooth and minimal  
+    2. Sporty accents  
+    3. Aggressive vents  
+    4. Chromed trims  
+    5. Utility markings  
+
+Where is the spare tire or storage area located visually on the class?  
+    1. Rear hatch-mounted  
+    2. Underbody  
+    3. Not visible  
+    4. Rear interior compartment  
+    5. Rear bumper integration  
+
+How many rows of windows does the class show from the side view?  
+    1. One  
+    2. Two  
+    3. Three  
+    4. Four  
+    5. Split driver and cargo  
+
+What is the width-to-height proportion of the class?  
+    1. Very wide and low  
+    2. Tall and narrow  
+    3. Balanced  
+    4. Short and tall  
+    5. Long and narrow  
+
+What is the dominant rear-end design shape of the class?  
+    1. Flat vertical  
+    2. Sloped  
+    3. Short overhang  
+    4. Extended cargo  
+    5. Rounded taper  
+
+How prominent is the front logo badge on the class?  
+    1. Oversized and center-mounted  
+    2. Subtle on hood  
+    3. Incorporated in grille  
+    4. Chrome-embedded  
+    5. Not visible  
+
+What type of environment does the class appear most suitable for?  
+    1. Off-road terrain  
+    2. City driving  
+    3. Highway cruising  
+    4. Race track  
+    5. Family suburb  
+
+What kind of roofline does the class exhibit?  
+    1. Fastback slope  
+    2. Upright square  
+    3. Gently curved  
+    4. Straight and flat  
+    5. Arching dome  
+
+What kind of tire tread is most apparent on the class?  
+    1. All-terrain  
+    2. Low-profile performance  
+    3. Economy touring  
+    4. Deep winter  
+    5. Heavy-duty commercial  
+
+How does the rear window of the class appear?  
+    1. Slanted fastback  
+    2. Large and square  
+    3. Small and vertical  
+    4. Split-pane  
+    5. Panoramic wrap  
+
+What kind of material surrounds the window trim of the class?  
+    1. Chrome  
+    2. Black plastic  
+    3. Body-colored  
+    4. Polished aluminum  
+    5. Rubberized  
+
+What size is the overall footprint of the class?  
+    1. Compact  
+    2. Midsize  
+    3. Full-size  
+    4. Extended length  
+    5. Subcompact  
+
+How visible is underbody clearance on the class?  
+    1. Clearly high  
+    2. Moderate  
+    3. Low clearance  
+    4. Nearly flush with ground  
+    5. Covered panels  
+
+How flashy is the exterior paint of the class?  
+    1. Matte finish  
+    2. Metallic sheen  
+    3. High gloss  
+    4. Two-tone  
+    5. Utility basic  
+
+What is the front air intake design on the class?  
+    1. Triple grille vents  
+    2. Single wide grille  
+    3. Narrow slits  
+    4. No visible intake  
+    5. Exaggerated scoops  
+
+How does the lighting signature of the class appear at night?  
+    1. Bold LED pattern  
+    2. Circular halos  
+    3. Thin bars  
+    4. Standard bulb  
+    5. Aggressive split lights  
+
+What type of spoiler or lip is visible on the rear of the class?  
+    1. Raised wing  
+    2. Integrated lip  
+    3. No spoiler  
+    4. Roof edge extension  
+    5. Ducktail  
+
+How is the windshield rake (angle) on the class?  
+    1. Very steep  
+    2. Slightly sloped  
+    3. Upright  
+    4. Nearly flat  
+    5. Curved wraparound  
+
+What’s the rear bumper styling of the class?  
+    1. Chrome finish  
+    2. Integrated with body  
+    3. Black rubberized  
+    4. Diffuser styling  
+    5. Step platform  
+
+Where does the antenna appear on the class?  
+    1. Shark fin  
+    2. Retractable  
+    3. Rear-mounted whip  
+    4. In the glass  
+    5. None visible  
+
+How wide are the rear pillars on the class?  
+    1. Very thick  
+    2. Moderate  
+    3. Thin  
+    4. Invisible due to glass  
+    5. Covered with blackout  
+
+What kind of cargo access does the class provide?  
+    1. Liftgate  
+    2. Trunk  
+    3. Swing-out doors  
+    4. Tailgate  
+    5. Split barn doors  
+
+What is the side profile height difference between front and rear of the class?  
+    1. Front lower than rear  
+    2. Rear lower than front  
+    3. Equal  
+    4. High front, low rear slope  
+    5. Dropped center  
+
+What is the front fender treatment of the class?  
+    1. Flared wide  
+    2. Subtle contour  
+    3. Smooth with body  
+    4. Vented  
+    5. Boxy extension  
+
+What is the daytime running light design of the class?  
+    1. L-shaped  
+    2. Circle rings  
+    3. Straight lines  
+    4. Dotted  
+    5. Not present  
+
+How does the class transition from hood to windshield?  
+    1. Smooth slope  
+    2. Steep angle  
+    3. Sharp edge  
+    4. Rounded blend  
+    5. Angular step  
+
+How large are the front headlights of the class?  
+    1. Oversized  
+    2. Compact  
+    3. Average  
+    4. Tall  
+    5. Thin slits  
+
+What kind of visual framing is around the grille of the class?  
+    1. Thick chrome border  
+    2. Body colored frame  
+    3. Mesh to edge  
+    4. Silver trim  
+    5. Blacked out  
+
+Where does the class’s hood slope end?  
+    1. Flush with grille  
+    2. Above headlamps  
+    3. Under grille  
+    4. Continuous to bumper  
+    5. Split with vent  
+
+What kind of exhaust tip design is used on the class?  
+    1. Circular chrome  
+    2. Rectangular  
+    3. Hidden  
+    4. Dual quad  
+    5. Downturned  
+
+What type of visibility does the rear windshield offer on the class?  
+    1. Very wide  
+    2. Slit-like  
+    3. Mid-size  
+    4. Panoramic  
+    5. Obstructed  
+
+How many visible door seams are on each side of the class?  
+    1. One  
+    2. Two  
+    3. Three  
+    4. Four  
+    5. None  
+
+What kind of exterior styling theme does the class follow?  
+    1. Sporty  
+    2. Luxurious  
+    3. Rugged  
+    4. Practical  
+    5. Retro  
+
+What is the visual stance of the class on the road?  
+    1. Aggressively planted  
+    2. Elevated and tall  
+    3. Narrow and upright  
+    4. Low and sleek  
+    5. Balanced standard  
+
+What style of hood ornamentation or badges does the class display?  
+    1. Large standalone  
+    2. Embedded in grille  
+    3. None  
+    4. Flush lettering  
+    5. Raised emblem on hood  

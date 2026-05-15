@@ -1,0 +1,312 @@
+What is the primary body shape of the class?  
+    1. Convertible  
+    2. Coupe  
+    3. Sedan  
+    4. SUV  
+    5. Hatchback  
+    6. Minivan  
+    7. Wagon  
+    8. Pickup Truck  
+    9. Van  
+
+How many doors does the class have?  
+    1. Two  
+    2. Four  
+    3. Five  
+
+What is the general size of the class compared to average vehicles?  
+    1. Compact  
+    2. Midsize  
+    3. Full-size  
+    4. Oversized  
+
+What type of roof does the class feature?  
+    1. Hardtop  
+    2. Soft top  
+    3. Removable panels  
+    4. No roof  
+
+How sporty does the class appear visually?  
+    1. Not sporty  
+    2. Slightly sporty  
+    3. Very sporty  
+    4. Race-car inspired  
+
+What is the ground clearance of the class?  
+    1. Very low  
+    2. Standard  
+    3. High  
+    4. Off-road capable  
+
+What is the front grille design like on the class?  
+    1. Small and simple  
+    2. Large and aggressive  
+    3. Wide horizontal slats  
+    4. Mesh-style  
+    5. No noticeable grille  
+
+What is the shape of the headlights on the class?  
+    1. Round  
+    2. Oval  
+    3. Rectangular  
+    4. Angular  
+    5. Slit-like  
+
+How many exhaust pipes are visible on the class?  
+    1. None  
+    2. One  
+    3. Two  
+    4. Four  
+
+What does the rear of the class look like?  
+    1. Flat vertical tailgate  
+    2. Sloped fastback style  
+    3. Boxy and squared  
+    4. Extended truck bed  
+    5. Rounded hatch  
+
+What type of wheels does the class typically have?  
+    1. Steel wheels with hubcaps  
+    2. Basic alloys  
+    3. Sport alloys  
+    4. Oversized luxury rims  
+
+What is the visual profile of the class from the side?  
+    1. Boxy and upright  
+    2. Streamlined and low  
+    3. Sloped roofline  
+    4. Elevated rear cabin  
+
+What kind of front bumper design does the class have?  
+    1. Plain  
+    2. With air intakes  
+    3. With chrome detailing  
+    4. Reinforced and rugged  
+
+How wide does the class appear visually?  
+    1. Narrow  
+    2. Medium width  
+    3. Very wide  
+
+What is the design of the class’s side mirrors?  
+    1. Small and simple  
+    2. Large and rectangular  
+    3. Sleek and aerodynamic  
+    4. Body-integrated  
+
+What’s the windshield angle of the class?  
+    1. Very upright  
+    2. Slightly tilted  
+    3. Highly sloped  
+
+What kind of roofline does the class have?  
+    1. Flat  
+    2. Sloped toward rear  
+    3. Raised for passengers  
+
+What type of rear lights does the class have?  
+    1. Small round  
+    2. Horizontal bars  
+    3. Vertical stacks  
+    4. L-shaped  
+    5. Wrap-around style  
+
+How aggressive does the class look from the front?  
+    1. Very mild  
+    2. Slightly aggressive  
+    3. Moderately aggressive  
+    4. Extremely aggressive  
+
+What does the hood of the class feature?  
+    1. Plain smooth surface  
+    2. Vents or scoops  
+    3. Chrome ornaments  
+    4. Bulging contours  
+
+What is the side window shape of the class?  
+    1. Square  
+    2. Tall rectangle  
+    3. Short triangle  
+    4. Smooth wave-like  
+
+What is the roof height of the class relative to average vehicles?  
+    1. Very low  
+    2. Standard  
+    3. Tall  
+    4. Extra tall  
+
+What type of rear cargo access does the class have?  
+    1. Trunk lid  
+    2. Hatch  
+    3. Liftgate  
+    4. Swing doors  
+    5. Tailgate  
+
+What is the stance of the class (wheelbase and wheel spread)?  
+    1. Narrow and short  
+    2. Wide and long  
+    3. Tall and narrow  
+    4. Squat and compact  
+
+What’s the class's most dominant material appearance?  
+    1. Painted plastic  
+    2. Chrome  
+    3. Matte finish  
+    4. Carbon fiber accents  
+    5. Brushed metal  
+
+How many rows of windows are visible on the side of the class?  
+    1. One  
+    2. Two  
+    3. Three  
+
+What shape is the rear window of the class?  
+    1. Small square  
+    2. Tall rectangle  
+    3. Wide curve  
+    4. Slanted trapezoid  
+
+What kind of roof feature does the class have?  
+    1. None  
+    2. Sunroof  
+    3. Panoramic glass  
+    4. Roof rails  
+    5. Soft-top fabric  
+
+What is the size and shape of the front badge on the class?  
+    1. Small and centered  
+    2. Wide and spread  
+    3. Large and dominant  
+    4. Minimal or absent  
+
+What kind of door handles does the class have?  
+    1. Standard pull handles  
+    2. Chrome handles  
+    3. Body-colored flush  
+    4. Vertical utility-style  
+
+What visual element dominates the rear bumper of the class?  
+    1. Black plastic panel  
+    2. Chrome trim  
+    3. Dual exhausts  
+    4. Integrated step  
+
+How tall are the tires relative to the body of the class?  
+    1. Very low profile  
+    2. Medium profile  
+    3. High sidewalls  
+    4. Oversized off-road  
+
+How is the class’s rear license plate mounted?  
+    1. In the trunk lid  
+    2. In the bumper  
+    3. In the tailgate  
+    4. Between tail lights  
+
+How large are the class’s side windows?  
+    1. Small and narrow  
+    2. Medium-sized  
+    3. Large panoramic  
+    4. Utility-styled tall  
+
+How does the class's paint job typically appear?  
+    1. Monotone matte  
+    2. Glossy metallic  
+    3. Dual-tone  
+    4. Custom bright colors  
+
+What kind of fender design does the class have?  
+    1. Flared and aggressive  
+    2. Flat and integrated  
+    3. Boxed and pronounced  
+    4. Narrow and flush  
+
+What shape are the tailpipes of the class?  
+    1. Round  
+    2. Square  
+    3. Oval  
+    4. Hidden  
+
+What is the angle of the rear end of the class?  
+    1. Flat vertical  
+    2. Curved drop  
+    3. Sloped fastback  
+    4. Raised utility  
+
+How many side pillars (A, B, C) are visible on the class?  
+    1. One  
+    2. Two  
+    3. Three  
+    4. Four  
+
+What is the typical wheel arch style of the class?  
+    1. Round flush  
+    2. Squared-off  
+    3. Flared with cladding  
+    4. Smooth blend  
+
+What is the shape of the class’s front lights from above?  
+    1. Straight line  
+    2. Hooked curve  
+    3. Triangular sharp  
+    4. Oval smooth  
+
+What does the undercarriage of the class suggest?  
+    1. Low-riding performance  
+    2. Standard clearance  
+    3. Rugged protection  
+    4. Visible lift suspension  
+
+What kind of visual symmetry does the class exhibit?  
+    1. Perfect bilateral  
+    2. Asymmetrical features  
+    3. Balanced with angular contrasts  
+    4. Long front, short rear  
+
+How does the class’s wheel size appear relative to the body?  
+    1. Undersized  
+    2. Proportional  
+    3. Oversized for style  
+    4. Oversized for terrain  
+
+What does the rear window visibility of the class look like?  
+    1. Very limited  
+    2. Wide and clear  
+    3. Slanted and stylish  
+    4. Large utility-focused  
+
+What does the class's front overhang look like?  
+    1. Very short  
+    2. Long and sloping  
+    3. Standard square cut  
+    4. Forward-jutting  
+
+What is the overall proportion of cabin to hood in the class?  
+    1. Short hood, long cabin  
+    2. Long hood, short cabin  
+    3. Balanced  
+    4. Mid-engine feel  
+
+What is the visual balance of the wheelbase to height in the class?  
+    1. Tall and short wheelbase  
+    2. Low and long wheelbase  
+    3. Evenly proportioned  
+    4. Compact and elevated  
+
+What type of visual trim does the class usually show?  
+    1. Chrome-lined  
+    2. Black accents  
+    3. Painted body color  
+    4. Brushed aluminum  
+
+What kind of visual detail is most prominent on the side profile of the class?  
+    1. Deep side cuts  
+    2. Smooth plain panels  
+    3. Molded lines  
+    4. Black trim or step bars  
+
+What’s the visual focus of the class from a distance?  
+    1. Silhouette shape  
+    2. Chrome and light reflections  
+    3. Size and height  
+    4. Bright color or design flair

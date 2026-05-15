@@ -1,0 +1,349 @@
+What is the primary shape of the class?
+    1. Cylindrical
+    2. Rectangular
+    3. Spherical
+    4. Flat
+    5. Irregular
+
+What type of material is most visible on the class?
+    1. Metal
+    2. Plastic
+    3. Glass
+    4. Fabric
+    5. Wood
+
+What is the size comparison of the class to a human?
+    1. Much smaller
+    2. Smaller
+    3. About the same size
+    4. Larger
+    5. Much larger
+
+What environment is the class typically found in?
+    1. Kitchen
+    2. Road
+    3. Beach
+    4. Farm
+    5. Train station
+
+How does the class primarily move or stay positioned?
+    1. Wheels
+    2. Tracks
+    3. Carried by hand
+    4. Stationary
+    5. Floats
+
+What is the surface texture of the class?
+    1. Smooth
+    2. Rough
+    3. Ribbed
+    4. Bumpy
+    5. Polished
+
+Is the class designed for personal use or industrial use?
+    1. Personal
+    2. Industrial
+    3. Both
+    4. Decorative
+    5. Medical
+
+What is the dominant color of the class typically?
+    1. Red
+    2. Blue
+    3. White
+    4. Metallic
+    5. Brown
+
+What is the main function of the class?
+    1. Transportation
+    2. Storage
+    3. Cooking
+    4. Communication
+    5. Recreation
+
+What type of liquid would most likely be associated with the class?
+    1. Water
+    2. Oil
+    3. Alcohol
+    4. Fuel
+    5. No liquid
+
+Does the class usually have visible handles?
+    1. Always
+    2. Often
+    3. Sometimes
+    4. Rarely
+    5. Never
+
+What kind of wheels, if any, does the class have?
+    1. Large rugged wheels
+    2. Small smooth wheels
+    3. Narrow bicycle wheels
+    4. No wheels
+    5. Treaded wheels
+
+What part of a building is the class typically seen in?
+    1. Kitchen
+    2. Garage
+    3. Living room
+    4. Bathroom
+    5. Outdoors
+
+What type of lid or cover does the class have?
+    1. Screw-on
+    2. Hinged
+    3. Removable
+    4. No lid
+    5. Snap-fit
+
+What kind of seating, if any, does the class offer?
+    1. Single rider seat
+    2. Multiple passenger seats
+    3. No seats
+    4. Bench seat
+    5. Saddle-style seat
+
+What would the weight of the class feel like?
+    1. Very light
+    2. Light
+    3. Moderate
+    4. Heavy
+    5. Extremely heavy
+
+What is the number of wheels commonly seen on the class?
+    1. Two
+    2. Three
+    3. Four
+    4. Six or more
+    5. None
+
+What part of transportation is most closely tied to the class?
+    1. Emergency
+    2. Personal leisure
+    3. Public service
+    4. Freight movement
+    5. Off-road work
+
+What primary shape is the opening of the class if it has one?
+    1. Circular
+    2. Square
+    3. Oval
+    4. Rectangular
+    5. No opening
+
+What visual complexity does the class exhibit?
+    1. Very simple
+    2. Mostly simple
+    3. Moderate
+    4. Somewhat complex
+    5. Highly detailed
+
+What general height is the class compared to the human body?
+    1. Below the knee
+    2. Knee to waist
+    3. Waist to shoulder
+    4. Shoulder to head
+    5. Taller than a person
+
+How decorative is the class typically?
+    1. Highly decorative
+    2. Moderately decorative
+    3. Slightly decorative
+    4. Plain
+    5. Purely functional
+
+What kind of interaction is needed to use the class?
+    1. Pouring
+    2. Carrying
+    3. Riding
+    4. Loading
+    5. Pushing
+
+What kind of opening mechanism is typical on the class?
+    1. Pull to open
+    2. Push to open
+    3. Twist to open
+    4. Lift to open
+    5. No opening
+
+What is the first impression of the class’s durability?
+    1. Very durable
+    2. Durable
+    3. Average
+    4. Fragile
+    5. Very fragile
+
+What outdoor setting is most associated with the class?
+    1. City street
+    2. Farm field
+    3. Beach
+    4. Forest
+    5. Mountains
+
+How technologically complex does the class seem?
+    1. Very advanced
+    2. Moderately advanced
+    3. Simple mechanical
+    4. Hand-operated
+    5. Non-mechanical
+
+What kind of container is the class similar to?
+    1. Bottle
+    2. Box
+    3. Bag
+    4. Bowl
+    5. Jug
+
+What type of food or drink could be associated with the class?
+    1. Beer
+    2. Water
+    3. Soup
+    4. Coffee
+    5. Wine
+
+What is the class primarily powered by?
+    1. Human effort
+    2. Engine
+    3. Electricity
+    4. Animal
+    5. Gravity
+
+What form of mobility does the class demonstrate?
+    1. Rapid
+    2. Moderate
+    3. Slow
+    4. Stationary
+    5. Variable
+
+What is the general sturdiness of the class?
+    1. Very sturdy
+    2. Sturdy
+    3. Semi-sturdy
+    4. Delicate
+    5. Fragile
+
+What part of a house would most likely contain the class?
+    1. Kitchen
+    2. Bathroom
+    3. Garage
+    4. Living room
+    5. Basement
+
+How is the class most often moved?
+    1. Pulled
+    2. Pushed
+    3. Carried
+    4. Driven
+    5. Left stationary
+
+What is the overall transparency of the class?
+    1. Fully transparent
+    2. Mostly transparent
+    3. Partially transparent
+    4. Opaque
+    5. Depends on contents
+
+What’s the most notable geometric feature of the class?
+    1. Sharp angles
+    2. Curves
+    3. Smooth cylinders
+    4. Irregular edges
+    5. Straight lines
+
+What role does size play in the visibility of the class?
+    1. Dominates surroundings
+    2. Blends in
+    3. Smaller, noticeable
+    4. Miniature
+    5. Hidden away
+
+What is the primary access feature for the class?
+    1. Door
+    2. Lid
+    3. Opening
+    4. Slot
+    5. No access point
+
+What would the typical sound interaction with the class be?
+    1. Loud engine noise
+    2. Splashing
+    3. Clinking
+    4. Rattling
+    5. Silence
+
+What kind of maintenance would the class most likely need?
+    1. Frequent washing
+    2. Mechanical servicing
+    3. Occasional cleaning
+    4. Very low maintenance
+    5. Rust protection
+
+What is the overall mobility capability of the class?
+    1. Very mobile
+    2. Moderately mobile
+    3. Slightly mobile
+    4. Immobile
+    5. Temporarily mobile
+
+What type of setting would the class be unusual to find in?
+    1. Forest
+    2. Desert
+    3. Hospital
+    4. School
+    5. Office
+
+How is the visual theme of the class best described?
+    1. Industrial
+    2. Rustic
+    3. Sleek
+    4. Classic
+    5. Playful
+
+What is the class most associated with emotionally?
+    1. Safety
+    2. Fun
+    3. Work
+    4. Relaxation
+    5. Necessity
+
+What would the class’s primary maintenance issue be?
+    1. Mechanical failure
+    2. Leakage
+    3. Wear and tear
+    4. Staining
+    5. Contamination
+
+What kind of grip is needed for handling the class?
+    1. One hand
+    2. Two hands
+    3. Group lift
+    4. Handle pull
+    5. No gripping needed
+
+What secondary function might the class serve?
+    1. Decoration
+    2. Storage
+    3. Transport
+    4. Shelter
+    5. Heating
+
+What form of fuel or energy supports the class, if any?
+    1. Gasoline
+    2. Electricity
+    3. Human strength
+    4. No fuel
+    5. Animal strength
+
+What type of label or signage would the class most likely have?
+    1. Emergency markings
+    2. Brand logos
+    3. Warning labels
+    4. Measurement markings
+    5. No labels
+
+What would the age of the class most influence visually?
+    1. Color fading
+    2. Structural rust
+    3. Surface scratches
+    4. Shape distortion
+    5. It would remain unchanged

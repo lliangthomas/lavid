@@ -1,0 +1,489 @@
+What is the primary environment associated with the class?
+    1. Primarily aquatic (lives in water)
+    2. Primarily aerial (spends most time flying)
+    3. Primarily terrestrial (lives on land)
+    4. Man-made structure or object environment
+    5. Found across multiple environments (air/land/water)
+
+Does the class typically possess legs for movement?
+    1. Yes, two legs
+    2. Yes, four legs
+    3. Yes, six or more legs
+    4. No legs, uses wheels, fins, or other means
+    5. Inanimate object, no locomotion
+
+Is the class a living organism?
+    1. Yes, an animal
+    2. Yes, a plant
+    3. No, it is a man-made object
+    4. No, it is a natural non-living object or fossil
+    5. It is a representation (fictional, symbolic, body part)
+
+What is the typical scale of the class?
+    1. Small enough to be held in one hand
+    2. Roughly human-sized
+    3. Significantly larger than a human (vehicle, large animal)
+    4. Architectural scale or very large natural feature
+    5. Microscopic or very small invertebrate
+
+Does the class have wings?
+    1. Yes, feathered wings for flight (bird)
+    2. Yes, membranous or chitinous wings (insect, bat - not in list)
+    3. Yes, artificial wings (aircraft)
+    4. No functional wings
+    5. Figurative or decorative wings
+
+Is the class commonly found inside a human dwelling?
+    1. Yes, commonly kept as a pet
+    2. Yes, common household object or furniture
+    3. Yes, common electronic device or appliance
+    4. Rarely or never found inside a typical home
+    5. Is part of the building structure itself
+
+Does the class have a hard external shell or exoskeleton?
+    1. Yes, a biological shell (turtle, mollusc)
+    2. Yes, an exoskeleton (insect, crustacean)
+    3. Yes, a hard man-made casing (metal, plastic)
+    4. No, has skin, fur, feathers, or is soft-bodied
+    5. Not applicable (plant, symbol)
+
+Is the class a type of musical instrument?
+    1. Yes, stringed instrument (plucked or bowed)
+    2. Yes, wind instrument (brass or woodwind)
+    3. Yes, keyboard instrument
+    4. Yes, instrument involving bellows or reeds
+    5. No, not a musical instrument
+
+Does the class utilize wheels for its primary function?
+    1. Yes, two wheels for transportation
+    2. Yes, four or more wheels for transportation
+    3. Yes, wheels for mobility assistance
+    4. No wheels involved in primary function
+    5. Not applicable (animal, plant)
+
+Is the class predominantly green?
+    1. Yes, typically green (plant, some reptiles/insects)
+    2. Often contains green but not the main color
+    3. Rarely or never green
+    4. Green is a key color but part of a multi-color design (e.g., currency)
+    5. Color is highly variable or metallic/neutral
+
+Is the class directly related to food or drink?
+    1. Is a commonly eaten food item (fruit, prepared dish)
+    2. Is an animal sometimes consumed
+    3. Is a container used for drinking
+    4. Is a plant, parts of which might be edible
+    5. Not typically related to food or drink
+
+Is the class an extinct organism?
+    1. Yes, a dinosaur known for its large size or long neck
+    2. Yes, a dinosaur known for plates or armor
+    3. Yes, an extinct marine arthropod
+    4. No, it is currently living
+    5. Not applicable (not an organism)
+
+Does the class possess a distinct face?
+    1. Yes, a human face
+    2. Yes, a mammalian or bird face
+    3. Yes, a reptilian or amphibian face
+    4. Yes, a cartoon or stylized face
+    5. No distinct face or not applicable
+
+Is the class related to measuring or indicating time?
+    1. Yes, its primary purpose is timekeeping (watch)
+    2. Yes, used for maintaining tempo or rhythm (metronome)
+    3. No direct function in timekeeping
+    4. Ancient structure possibly related to time/astronomy
+    5. Not applicable (animal, plant)
+
+Is the class primarily constructed from metal?
+    1. Yes, typically a tool or weapon made of metal
+    2. Yes, typically a vehicle or large structure with metal frame/body
+    3. Yes, typically a musical instrument made primarily of metal
+    4. Yes, typically an electronic device or appliance with metal casing
+    5. No, primarily non-metallic or biological
+
+Does the class have a distinctive spotted or striped pattern?
+    1. Yes, characteristic spots (leopard, dalmatian)
+    2. Yes, characteristic stripes (okapi)
+    3. Often patterned, but not specifically spots or stripes (butterfly, some fish)
+    4. Generally solid-colored or subtly patterned
+    5. Not applicable (object, plant)
+
+Is the class a type of building or large fixed structure?
+    1. Yes, a religious or ceremonial building/structure
+    2. Yes, a monumental structure from antiquity
+    3. Is a component fixed to a building (fan, chandelier)
+    4. Is a large natural structure (tree)
+    5. No, it is mobile or a smaller object/organism
+
+Does the class have an exceptionally long neck or snout/beak?
+    1. Yes, a very long neck (gerenuk, emu, flamingo)
+    2. Yes, a prominent snout or facial structure (crocodile, rhino)
+    3. Yes, a long beak (ibis)
+    4. No, relatively proportionate head/neck/snout
+    5. Not applicable (object, plant)
+
+How is the symmetry of the class best described?
+    1. Strong bilateral symmetry (along one plane)
+    2. Approximate bilateral symmetry
+    3. Radial symmetry (around a central point)
+    4. Asymmetrical
+    5. Complex or variable symmetry
+
+Is the primary purpose of the class transportation?
+    1. Yes, air travel
+    2. Yes, water travel
+    3. Yes, land travel (motorized)
+    4. Yes, land travel (human-powered or assisted mobility)
+    5. No, primary purpose is not transportation
+
+Does the class have feathers?
+    1. Yes, is a bird covered in feathers
+    2. Is only the head of a feathered bird
+    3. No feathers
+    4. Man-made object, no feathers
+    5. Not applicable (plant, invertebrate)
+
+Is the class characterized by sharp spines or quills?
+    1. Yes, defensive quills (hedgehog)
+    2. Yes, sharp spines (some plants, starfish?)
+    3. Has sharp points/edges but not spines/quills (scissors, anchor, scorpion tail)
+    4. Generally smooth or soft exterior
+    5. Not applicable
+
+Does the class require electricity to function?
+    1. Yes, requires mains power or batteries (appliance, electronic device)
+    2. Can be electric but also exists in acoustic/manual form (instruments, piano)
+    3. Functions without electricity
+    4. Is related to light/electricity but passive (lamp, chandelier without bulb focus)
+    5. Not applicable (organism, simple tool)
+
+Is the class considered furniture?
+    1. Yes, designed for seating
+    2. Yes, a type of lighting fixture often considered with furniture
+    3. Yes, an accessory often placed on furniture (metronome, bonsai)
+    4. No, not furniture
+    5. A container sometimes used like furniture (barrel)
+
+Is the class primarily associated with sound or music?
+    1. Is a musical instrument played by hand/mouth
+    2. Is a large stationary musical instrument
+    3. Reproduces recorded sound or amplifies sound
+    4. Makes a characteristic non-musical sound (animal call, engine noise)
+    5. Generally silent or sound is irrelevant
+
+Does the class possess claws or pincers?
+    1. Yes, large pincers (crab, lobster, crayfish, scorpion)
+    2. Yes, claws on feet/hands (leopard, cougar, beaver, rooster)
+    3. Has hooked structures but not claws/pincers (anchor, wrench)
+    4. No claws or pincers
+    5. Not applicable
+
+Is the class a weapon or primarily used for military purposes?
+    1. Yes, a handgun (revolver)
+    2. Yes, a historical artillery piece (cannon)
+    3. Yes, a military vehicle (helicopter, airplane can be)
+    4. Can be used defensively but not primarily a weapon (scorpion sting, rhino horn)
+    5. Not typically considered a weapon
+
+Does the class naturally grow outdoors?
+    1. Yes, a tree
+    2. Yes, a flowering plant or shrub
+    3. Yes, lives outdoors (most animals)
+    4. Primarily man-made or found indoors
+    5. Natural object but doesn't "grow" (anchor found outdoors)
+
+Is the class characteristically black and white?
+    1. Yes, distinctive black and white animal (panda, dalmatian)
+    2. Yes, black and white symbol or object (yin yang, soccer ball)
+    3. Often black or white, but not necessarily patterned together
+    4. Rarely primarily black and white
+    5. Color varies greatly
+
+Does the class have scales?
+    1. Yes, reptilian scales (crocodile, hawksbill, dinosaur)
+    2. Yes, fish-like scales (sea horse)
+    3. Has a scale-like pattern or texture (some insects, pineapple - not in list)
+    4. No scales (has fur, feathers, skin, shell, or is inanimate)
+    5. Not applicable
+
+Is the class related to vision or image capture?
+    1. Instrument for enhancing vision (binocular)
+    2. Device for capturing images (camera)
+    3. Biological structure related to vision (face, brain)
+    4. Not primarily related to vision/optics
+    5. Symbol involving eyes (Buddha?)
+
+Is the class worn on the human body?
+    1. Yes, worn on the head (headphone)
+    2. Yes, worn on the wrist (watch)
+    3. Yes, worn on the feet (inline skate)
+    4. Not typically worn on the body
+    5. Is a part of the body (face, brain)
+
+Does the class involve paper or monetary value?
+    1. Is made of paper and represents currency (dollar bill)
+    2. Tool used on paper (stapler)
+    3. Device often used to display digital documents (laptop)
+    4. Not typically associated with paper or currency
+    5. Symbol printed on various media (stop sign, yin yang)
+
+Is the class found in a kitchen environment?
+    1. Yes, used for drinking or pouring (cup, ewer)
+    2. Yes, a food item prepared or eaten (pizza, strawberry)
+    3. Tool sometimes used in food prep (scissors)
+    4. Appliance sometimes found in kitchen (lamp?) - Weak connection
+    5. Rarely or never found in a kitchen
+
+Does the class exhibit a distinct spiral shape?
+    1. Yes, natural spiral shell (nautilus)
+    2. Yes, coiled biological structure (brain convolutions?) - Weak connection
+    3. Features spiral elements (some horns, gramophone horn)
+    4. No prominent spiral shape
+    5. Not applicable
+
+Is the class a type of feline (cat)?
+    1. Yes, a large wild cat (leopard, cougar body/face, wild cat)
+    2. Yes, a fictional cat (Garfield)
+    3. No, but is another mammal
+    4. Not a mammal
+    5. Not an animal
+
+Does the class possess horns or antlers?
+    1. Yes, permanent horns (rhino)
+    2. Has structures referred to as horns (euphonium, gramophone)
+    3. No horns or antlers
+    4. Extinct animal that might have had horns/crests (dinosaur)
+    5. Not applicable (non-animal)
+
+Is the class a type of boat or ship?
+    1. Yes, primarily uses sails (ketch, schooner)
+    2. Yes, a motorized vessel for transport (ferry)
+    3. Is a component specific to ships (anchor)
+    4. Is an animal found in marine environments near ships (dolphin, whale - not in list)
+    5. Not a boat or ship
+
+Is the class a reptile or amphibian?
+    1. Yes, a crocodilian (crocodile, crocodile head)
+    2. Yes, a chelonian (hawksbill)
+    3. Yes, a dinosaur (brontosaurus, stegosaurus)
+    4. Not a reptile or amphibian
+    5. Not an animal
+
+Does the class have a handle or lever for operation/carrying?
+    1. Yes, designed to be held or carried by a handle (cup, ewer, umbrella, scissors, wrench, stapler, revolver)
+    2. Yes, has levers/keys for operation (accordion, saxophone, piano, laptop)
+    3. Has parts that function like handles/grips (motorbike, wheelchair, chair)
+    4. No distinct handle or lever
+    5. Not applicable (animal, plant)
+
+Is the class a type of bird?
+    1. Yes, a common urban bird (pigeon)
+    2. Yes, a domestic fowl (rooster)
+    3. Yes, a long-legged wading bird (flamingo, ibis, emu)
+    4. Is only the head of a bird (flamingo head)
+    5. No, not a bird
+
+Is the class predominantly red or orange?
+    1. Often bright red (strawberry, stop sign)
+    2. Often orange (Garfield)
+    3. Can be red/orange (crab/lobster when cooked, some flowers, some fish)
+    4. Rarely primarily red or orange
+    5. Color varies greatly or not applicable
+
+Does the class produce flowers?
+    1. Yes, is primarily known for its large flower (sunflower, lotus, water lilly)
+    2. Yes, is a plant that flowers (bonsai, joshua tree)
+    3. Features floral motifs or shapes (ewer, chandelier)
+    4. No flowers produced
+    5. Not a plant
+
+Is the class an insect or arachnid?
+    1. Yes, a flying insect (butterfly, dragonfly, mayfly)
+    2. Yes, a terrestrial insect (ant)
+    3. Yes, an arachnid (scorpion, tick)
+    4. Is an extinct arthropod (trilobite)
+    5. No, not an insect or arachnid
+
+Does the class have a generally smooth, flowing, curved shape?
+    1. Yes, streamlined aquatic animal (dolphin)
+    2. Yes, smooth curved man-made object (ewer, cup, bass guitar body, saxophone)
+    3. Yes, smooth biological shape (brain, face)
+    4. Primarily angular or complex shape
+    5. Texture/shape is rough or irregular (tree, hedgehog)
+
+Is the class strongly associated with desert environments?
+    1. Yes, a desert plant (joshua tree)
+    2. Yes, an animal adapted to arid regions (gerenuk)
+    3. Ancient structure often found in deserts (pyramid)
+    4. Not typically found in deserts
+    5. Habitat varies widely
+
+Does the class feature a keyboard for input or playing?
+    1. Yes, musical keyboard (grand piano, accordion keys)
+    2. Yes, typing keyboard (laptop)
+    3. No keyboard
+    4. Uses buttons/keys but not a standard keyboard layout (cellphone, camera, euphonium valves)
+    5. Not applicable
+
+How is the symmetry of the class best described regarding rotation?
+    1. Exhibits radial symmetry (starfish, ceiling fan, sunflower, wheel)
+    2. Exhibits rotational symmetry but not fully radial (yin yang, propeller)
+    3. Primarily bilateral symmetry
+    4. Asymmetrical
+    5. Not applicable / Variable
+
+Does the class represent an abstract concept or symbol?
+    1. Yes, a philosophical or cultural symbol (yin yang, buddha, menorah)
+    2. Yes, a standard sign or symbol (stop sign)
+    3. Represents value (dollar bill)
+    4. No, it is a concrete entity (animal, plant, object)
+    5. Fictional character which might be symbolic (Garfield, Snoopy)
+
+Is the class a prehistoric animal?
+    1. Yes, a sauropod dinosaur (brontosaurus)
+    2. Yes, a stegosaurian dinosaur (stegosaurus)
+    3. Yes, an ancient arthropod (trilobite)
+    4. No, it is extant or inanimate
+    5. No, it is a modern fictional character
+
+Is the class covered in fur or hair?
+    1. Yes, dense fur coat (leopard, beaver, cougar, elephant, gerenuk, kangaroo, llama, okapi, panda, platypus, rhino, wild cat)
+    2. Yes, less dense hair or stylized fur (face, garfield, snoopy)
+    3. No fur or hair (covered in scales, feathers, shell, exoskeleton, skin or inanimate)
+    4. Has spines derived from hair (hedgehog)
+    5. Not applicable
+
+Is the class designed as a container?
+    1. Yes, for drinking (cup)
+    2. Yes, for pouring or storing liquids (ewer)
+    3. Yes, for general storage (barrel)
+    4. Can contain things but not primary purpose (wheelchair basket, anchor holds seabed)
+    5. Not a container
+
+Does the class have a noticeable tail?
+    1. Yes, long, prominent tail (leopard, cougar, kangaroo, brontosaurus)
+    2. Yes, flat, paddle-like tail (beaver, platypus)
+    3. Yes, segmented tail with stinger (scorpion)
+    4. Yes, short or less prominent tail (rhino, elephant, sea horse)
+    5. No tail or not applicable
+
+Is the class typically found living or operating in large groups?
+    1. Forms large colonies or swarms (ant)
+    2. Often travels/lives in flocks, schools, or herds (pigeon, dolphin, flamingo, elephant)
+    3. Can be found in groups but often solitary (crab, starfish)
+    4. Primarily solitary
+    5. Not applicable (object)
+
+Is the class a tool used for cutting, fastening, or gripping?
+    1. Tool for cutting (scissors)
+    2. Tool for fastening objects (stapler)
+    3. Tool for gripping/turning (wrench)
+    4. Tool for anchoring/holding (anchor)
+    5. Not a tool of this type
+
+Does the class possess visible teeth or tusks?
+    1. Yes, prominent tusks (elephant)
+    2. Yes, sharp teeth often visible (crocodile/head, leopard/cougar face)
+    3. Has teeth, but not typically visible or defining feature (face, beaver, dolphin)
+    4. No teeth/tusks
+    5. Not applicable (object, plant, invertebrate)
+
+Is the class or its main components often transparent?
+    1. Yes, often made largely of glass (chandelier, cup, ewer, lamp bulb)
+    2. Has key transparent parts (watch face, camera lens, laptop screen, binocular lens)
+    3. Can be translucent (butterfly/dragonfly wings, water lilly petal)
+    4. Generally opaque
+    5. Not applicable
+
+Does the class exhibit a clear pattern of repeating units?
+    1. Biological repeating units (scales, feathers, insect segments, starfish arms)
+    2. Man-made repeating units (keys on piano/laptop, accordion bellows/keys, chair spindles)
+    3. Pattern repeats but units vary (flower petals, tree leaves)
+    4. No significant repeating pattern of units
+    5. Not applicable
+
+Is the class a type of crustacean?
+    1. Yes, marine decapod with large claws (lobster)
+    2. Yes, typically marine/brackish decapod, wider body (crab)
+    3. Yes, freshwater decapod resembling small lobster (crayfish)
+    4. No, but is another arthropod (ant, butterfly, scorpion, tick, trilobite)
+    5. Not an arthropod
+
+Is the class generally perceived as a single, monolithic object (versus assembled parts)?
+    1. Yes, typically one main, solid piece (anchor, barrel, brain, cup, ewer, pyramid, strawberry)
+    2. Composed of visibly distinct parts working together (vehicles, instruments, tools, furniture)
+    3. A complex living organism
+    4. A pattern or symbol
+    5. A collection of items (pizza with toppings)
+
+Can the class change its shape significantly as part of its function or nature?
+    1. Yes, biological flexibility (octopus, face, butterfly wings folding)
+    2. Yes, mechanical transformation (accordion, umbrella, scissors, stapler, inline skate folding?)
+    3. Changes shape through growth only
+    4. Structure is essentially rigid
+    5. Not applicable
+
+Is the class directly associated with religion, spirituality, or ceremony?
+    1. Yes, a depiction of a religious figure (Buddha)
+    2. Yes, a ritual object (Menorah)
+    3. Yes, a religious building or style (Pagoda, Minaret)
+    4. Yes, a symbol with spiritual meaning (Lotus, Yin Yang)
+    5. No direct religious/spiritual association
+
+Does the class utilize rotating blades, rotors, or propellers?
+    1. Yes, large overhead rotors for lift (helicopter)
+    2. Yes, propellers for thrust (airplane, ferry)
+    3. Yes, blades for moving air (ceiling fan)
+    4. No rotating blades/propellers/rotors
+    5. Not applicable
+
+What type of sound is characteristic of the class?
+    1. Animal vocalization (e.g., roar, trumpet, crow, chirp)
+    2. Musical tones (instrument)
+    3. Mechanical noise (engine, motor, shutter click)
+    4. Sound reproduction (gramophone, headphone output)
+    5. Generally silent or sound is not a defining feature
+
+Is the class a piece of furniture designed for sitting?
+    1. Yes, a general purpose chair
+    2. Yes, a specific traditional style of chair (Windsor chair)
+    3. Yes, a chair designed for mobility (wheelchair)
+    4. Not furniture designed for sitting
+    5. Not furniture at all
+
+Does the class possess hooves?
+    1. Yes, cloven hooves (gerenuk, okapi, llama)
+    2. Yes, solid hooves (rhino - technically odd-toed ungulate)
+    3. No hooves (has paws, claws, feet, fins, none)
+    4. Not an animal
+    5. Extinct animal (dinosaurs did not have hooves)
+
+Is the class typically domesticated?
+    1. Yes, specific breed of domestic dog (Dalmatian)
+    2. Yes, domestic fowl (Rooster)
+    3. Yes, domesticated mammal used for pack/fiber (Llama)
+    4. Can be tamed but usually wild (Pigeon, Elephant)
+    5. Primarily wild animal or not an animal
+
+Does the class feature a screen for visual display?
+    1. Yes, primary interface screen (Laptop, Cellphone)
+    2. Yes, smaller screen for information/settings (Camera, Watch)
+    3. No screen display
+    4. Not applicable (animal, plant, simple object)
+    5. Is a screen/display itself (monitor - not in list)
+
+What is the dominant surface texture of the class?
+    1. Hairy or furry
+    2. Feathered
+    3. Scaly or plated (reptile, fish, armored dinosaur, crustacean shell)
+    4. Smooth (skin, polished metal/wood, glass, plastic)
+    5. Rough or uneven (bark, rock, concrete, certain fabrics, hedgehog quills)
+
+How is the overall structure of the class visually organized?
+    1. Appears as a single, continuous unit or mass
+    2. Clearly divisible into two main parts or sections
+    3. Clearly divisible into three main parts or sections (like head-thorax-abdomen)
+    4. Composed of numerous complex, integrated functional components
+    5. Irregular, branching, or highly variable structure

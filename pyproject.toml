@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lavid"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "torch",
+    "lightning",
+    "wandb",
+    "numpy",
+    "pillow",
+    "tqdm",
+    "scikit-learn",
+    "matplotlib",
+    "pandas",
+    "torchvision",
+    "torchaudio",
+    "transformers",
+    "spacy",
+    "scipy",
+    "typer",
+    "clip @ git+https://github.com/openai/CLIP.git",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["lavid*"]

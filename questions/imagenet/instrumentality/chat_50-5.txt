@@ -1,0 +1,349 @@
+What material does the class primarily appear to be made of?
+    1. Metal
+    2. Wood
+    3. Fabric
+    4. Plastic
+    5. Paper
+
+Is the class typically found floating in water?
+    1. Yes, always
+    2. Sometimes
+    3. Rarely
+    4. Never
+    5. Only when damaged
+
+Does the class usually have wheels?
+    1. Yes, large wheels
+    2. Yes, small wheels
+    3. No wheels
+    4. Skids instead of wheels
+    5. Tracks instead of wheels
+
+Is the class generally used for transportation?
+    1. Air transportation
+    2. Water transportation
+    3. Land transportation
+    4. No transportation purpose
+    5. Only emergency transportation
+
+Is the class primarily associated with children?
+    1. Yes, mostly
+    2. Sometimes
+    3. Rarely
+    4. Only in specific settings
+    5. Never
+
+What size is the class compared to a human?
+    1. Much larger
+    2. Slightly larger
+    3. About the same
+    4. Slightly smaller
+    5. Much smaller
+
+What environment is the class most often found in?
+    1. Indoor home
+    2. Industrial/work setting
+    3. Outdoor natural environment
+    4. Public spaces
+    5. Specialized facilities
+
+Is the class primarily stationary or mobile?
+    1. Always mobile
+    2. Usually mobile
+    3. Can be either
+    4. Usually stationary
+    5. Always stationary
+
+Does the class have moving parts visible externally?
+    1. Yes, very visible
+    2. Yes, somewhat visible
+    3. Only internally
+    4. No moving parts
+    5. Only decorative movement
+
+What is the primary color theme of the class?
+    1. Bright colors
+    2. Metallic or grey
+    3. Natural earth tones
+    4. White or pastel
+    5. Dark or muted tones
+
+Is the class commonly used in sports or physical activities?
+    1. Yes, professional sports
+    2. Yes, casual activities
+    3. Rarely, only indirectly
+    4. Never
+    5. Used for training
+
+Is the class typically handheld?
+    1. Easily handheld
+    2. Handheld but heavy
+    3. Needs two hands
+    4. Not handheld
+    5. Only parts are handheld
+
+What kind of surface does the class usually have?
+    1. Smooth and polished
+    2. Rough or textured
+    3. Soft or padded
+    4. Reflective
+    5. Matte
+
+What shape best describes the class?
+    1. Long and narrow
+    2. Wide and flat
+    3. Round
+    4. Irregular
+    5. Tall and thin
+
+Is the class primarily used for sitting, lying, or standing?
+    1. Sitting
+    2. Lying
+    3. Standing
+    4. Not for body support
+    5. Variable use
+
+What is the primary function of the class?
+    1. Communication
+    2. Navigation
+    3. Construction
+    4. Entertainment
+    5. Hygiene
+
+Does the class produce sound?
+    1. Loud continuous sound
+    2. Quiet mechanical sound
+    3. Only on interaction
+    4. No sound at all
+    5. Only music or voice
+
+How is the class typically powered?
+    1. Electricity
+    2. Fuel
+    3. Human effort
+    4. Wind or water
+    5. Battery
+
+Is the class designed for one person or multiple people?
+    1. Only one person
+    2. Primarily one person, optionally more
+    3. Few people
+    4. Many people
+    5. Not used by people
+
+Does the class involve lifting or strength?
+    1. Requires a lot of strength
+    2. Moderate strength needed
+    3. Minimal strength needed
+    4. No lifting involved
+    5. Strength only for setup
+
+What kind of movement does the class most resemble?
+    1. Flying
+    2. Floating
+    3. Rolling
+    4. Sliding
+    5. Static
+
+What is the typical location where the class is first encountered?
+    1. Home
+    2. School
+    3. Office
+    4. Outdoor recreation
+    5. Travel terminal
+
+Does the class usually interact with liquids?
+    1. Frequently submerged
+    2. Occasionally splashed
+    3. Liquid stored inside
+    4. Repels liquid
+    5. No interaction
+
+Is the class typically operated by hand or remotely?
+    1. Hand-operated
+    2. Remotely operated
+    3. Both
+    4. Neither, automatic
+    5. Manual assembly only
+
+Does the class require special training to use?
+    1. Extensive training
+    2. Some training
+    3. Minimal instruction
+    4. No training
+    5. Only licenses
+
+What kind of safety equipment might be used with the class?
+    1. Life vest
+    2. Helmet
+    3. Gloves
+    4. Safety goggles
+    5. No equipment needed
+
+What part of the class is most visually dominant?
+    1. Structure/frame
+    2. Control interface
+    3. Decorative features
+    4. Surface finish
+    5. Functional attachments
+
+Is the class often associated with speed?
+    1. Very high speed
+    2. Moderate speed
+    3. Slow movement
+    4. Stationary object
+    5. Not movement-based
+
+What is the dominant material texture of the class?
+    1. Shiny
+    2. Matte
+    3. Soft
+    4. Rough
+    5. Waxy
+
+Where is the class primarily stored when not in use?
+    1. Indoors
+    2. Outdoors
+    3. Special facility
+    4. Portable storage
+    5. Not stored, always deployed
+
+What is the average lifespan of the class?
+    1. One-time use
+    2. Months
+    3. Several years
+    4. Decades
+    5. Indefinite
+
+How complex is the class visually?
+    1. Extremely simple
+    2. Simple but detailed
+    3. Moderate complexity
+    4. Highly detailed
+    5. Chaotic
+
+Is the class mainly vertical or horizontal in shape?
+    1. Vertical
+    2. Horizontal
+    3. Balanced
+    4. Spherical
+    5. Dynamic shape
+
+What kind of tools are associated with maintaining the class?
+    1. Cleaning tools
+    2. Mechanical tools
+    3. Electrical tools
+    4. Nautical tools
+    5. No maintenance needed
+
+What is the most common sensory experience associated with the class?
+    1. Sight
+    2. Sound
+    3. Touch
+    4. Smell
+    5. Taste
+
+How does the class mainly achieve motion?
+    1. Engines
+    2. Manual power
+    3. External forces (wind, water)
+    4. Gravity
+    5. No motion
+
+Is the class typically colorful?
+    1. Extremely colorful
+    2. Moderately colorful
+    3. Few colors
+    4. Monochrome
+    5. Colorless
+
+What is the likely owner of the class?
+    1. Private individual
+    2. Company
+    3. Government
+    4. Organization
+    5. No ownership
+
+Does the class involve connecting multiple parts?
+    1. Yes, permanently
+    2. Yes, temporarily
+    3. No connection
+    4. Only internal connections
+    5. Only decorative connections
+
+How is the class most likely carried or moved?
+    1. Carried by hand
+    2. Rolled
+    3. Dragged
+    4. Floated
+    5. Airlifted
+
+What type of surface does the class usually rest upon?
+    1. Water
+    2. Solid ground
+    3. Soft ground
+    4. Hard indoor flooring
+    5. Suspended in air
+
+How is the class typically produced?
+    1. Handmade
+    2. Mass-produced
+    3. Customized
+    4. Grown
+    5. Assembled from parts
+
+Is the class considered fragile?
+    1. Extremely fragile
+    2. Somewhat fragile
+    3. Durable
+    4. Very durable
+    5. Indestructible
+
+Is the class associated with luxury?
+    1. High luxury
+    2. Moderate luxury
+    3. Casual use
+    4. Everyday necessity
+    5. Emergency use
+
+What kind of edges does the class typically have?
+    1. Sharp edges
+    2. Rounded edges
+    3. Both sharp and rounded
+    4. Irregular edges
+    5. No noticeable edges
+
+When viewed from a distance, how distinct is the class?
+    1. Very distinctive
+    2. Moderately distinctive
+    3. Hard to distinguish
+    4. Blends into background
+    5. Only recognizable up close
+
+What natural element is most associated with the class?
+    1. Air
+    2. Water
+    3. Earth
+    4. Fire
+    5. None
+
+How often is the class used?
+    1. Daily
+    2. Weekly
+    3. Monthly
+    4. Yearly
+    5. Rarely
+
+Would the class be considered visually symmetrical?
+    1. Perfectly symmetrical
+    2. Mostly symmetrical
+    3. Somewhat asymmetrical
+    4. Highly asymmetrical
+    5. No clear pattern
+
+What type of human interaction does the class primarily require?
+    1. Active use
+    2. Passive observation
+    3. Regular maintenance
+    4. Occasional adjustment
+    5. Emergency intervention

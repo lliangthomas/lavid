@@ -1,0 +1,127 @@
+What is the general size of the class when viewed from a distance?
+    1. Very small, likely a single-engine or light aircraft  
+    2. Small, typically a regional jet or turboprop  
+    3. Medium, standard single-aisle commercial jet  
+    4. Large, wide-body or multi-engine commercial jet  
+    5. Very large, among the largest aircraft in service  
+
+How many engines does the class have?
+    1. One  
+    2. Two  
+    3. Three  
+    4. Four  
+
+Where are the engines located on the class?
+    1. Nose-mounted  
+    2. Under the wings  
+    3. Rear fuselage  
+    4. Wing-integrated or on top  
+
+What is the wing shape of the class?
+    1. Straight wings  
+    2. Slightly swept wings  
+    3. Sharply swept wings  
+    4. Delta wing  
+    5. Variable geometry (swing wing)  
+
+How many wheels or landing gear bogies are visible on the class?
+    1. Two or three small gear units  
+    2. Single-wheel main gear per side  
+    3. Dual-wheel main gear per side  
+    4. Complex multi-bogie main gear  
+
+Does the class have any visible tail-mounted stabilizers or engines?
+    1. No tail-mounted parts  
+    2. Tail-mounted stabilizers only  
+    3. Tail-mounted engines only  
+    4. Both stabilizers and engines tail-mounted  
+
+What is the nose shape of the class?
+    1. Rounded and stubby  
+    2. Rounded and aerodynamic  
+    3. Sharp and pointed  
+    4. Drooped or extended cone shape  
+
+How many passenger windows does the class typically show on one side?
+    1. None or 1-2 windows  
+    2. 3-10 windows  
+    3. 11-20 windows  
+    4. 21-30 windows  
+    5. More than 30 windows  
+
+What is the relative position of the wings on the class?
+    1. High-wing  
+    2. Mid-wing  
+    3. Low-wing  
+
+What kind of tail configuration does the class have?
+    1. Conventional tail  
+    2. T-tail  
+    3. V-tail  
+    4. Twin boom  
+    5. Cruciform  
+
+Does the class feature a distinctive hump or upper deck bulge?
+    1. No hump  
+    2. Partial front hump  
+    3. Full-length upper deck  
+
+What is the appearance of the cockpit windows on the class?
+    1. Small and flat  
+    2. Sloped and angled  
+    3. Curved and seamless  
+    4. Bulbous or fishbowl-like  
+
+What type of wingtips does the class have?
+    1. No visible winglets  
+    2. Blended or upward winglets  
+    3. Split scimitar or dual-fin tips  
+    4. Downward canted tips  
+
+What is the overall engine intake shape or visibility on the class?
+    1. Small round intake  
+    2. Large round intake  
+    3. Flattened or oval intake  
+    4. Stealthy or obscured intake  
+
+How many doors are visible on the fuselage of the class?
+    1. One or two small hatches  
+    2. Two large passenger doors  
+    3. Four passenger doors  
+    4. More than four doors or upper deck exits  
+
+How is the fuselage of the class proportioned?
+    1. Short and stubby  
+    2. Short and sleek  
+    3. Long and narrow  
+    4. Long and wide  
+
+Is the class primarily seen in a commercial, military, or private context visually?
+    1. Commercial airline service  
+    2. Military operation  
+    3. Private or business aviation  
+    4. Utility or cargo  
+
+Does the class typically feature visible propellers?
+    1. No propellers  
+    2. One propeller  
+    3. Two propellers  
+    4. Four or more propellers  
+
+How many rows of windows appear on the fuselage of the class?
+    1. No windows  
+    2. Single row  
+    3. Double row  
+
+Is the environment around the class more associated with runways or rugged fields?
+    1. Paved commercial airports  
+    2. Regional or remote airstrips  
+    3. Military or carrier-based areas  
+    4. Grass fields or countryside strips  
+
+What is the most prominent visual feature of the class from the front?
+    1. Large cockpit window area  
+    2. Large engine nacelles  
+    3. Narrow body and thin gear  
+    4. Wide body and heavy frame  
+    5. Distinctive tail or spine features

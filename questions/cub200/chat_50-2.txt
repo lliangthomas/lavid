@@ -1,0 +1,199 @@
+Does the class have a beak that appears brightly colored or vividly contrasting with its face?
+1. Yes
+2. No
+
+Is the class typically seen with a long tail relative to body size?
+1. Yes
+2. No
+
+Does the class have any significant crest or plume on the head?
+1. Yes
+2. No
+
+Does the class show a predominantly blue coloration on the body or wings?
+1. Yes
+2. No
+
+Is the class more often found in aquatic or coastal environments?
+1. Yes
+2. No
+
+Does the class have any visible eye markings or distinct lines across the face?
+1. Yes
+2. No
+
+Is the class characterized by strong sexual dimorphism in its plumage?
+1. Yes
+2. No
+
+Does the class have any red coloring on its body or head?
+1. Yes
+2. No
+
+Does the class display speckled or mottled feather patterns on its underparts?
+1. Yes
+2. No
+
+Does the class have a primarily black appearance with few additional colors?
+1. Yes
+2. No
+
+Is the class small and rounded in shape compared to most songbirds?
+1. Yes
+2. No
+
+Does the class have webbed feet?
+1. Yes
+2. No
+
+Is the class known for a notably long and pointed beak?
+1. Yes
+2. No
+
+Does the class typically perch vertically against tree trunks?
+1. Yes
+2. No
+
+Is the class often seen flying low over water or diving into it?
+1. Yes
+2. No
+
+Does the class have any yellow in its plumage?
+1. Yes
+2. No
+
+Is the class mostly brown or earth-toned in appearance?
+1. Yes
+2. No
+
+Does the class display any iridescent or glossy feathers?
+1. Yes
+2. No
+
+Does the class have noticeable facial wattles, horn-like feathers, or tufts?
+1. Yes
+2. No
+
+Is the class usually seen in flocks rather than alone or in pairs?
+1. Yes
+2. No
+
+Is the class mainly ground-foraging in its behavior?
+1. Yes
+2. No
+
+Does the class have a thick, conical beak suited for seed-cracking?
+1. Yes
+2. No
+
+Is the class more commonly seen in desert or arid landscapes?
+1. Yes
+2. No
+
+Does the class often show a strong contrast between light underparts and dark upperparts?
+1. Yes
+2. No
+
+Is the class most active or visible during twilight or night hours?
+1. Yes
+2. No
+
+Is the class more often associated with forest canopy or tree tops?
+1. Yes
+2. No
+
+Does the class feature any streaking patterns on its breast or sides?
+1. Yes
+2. No
+
+Is the class usually migratory across large geographic ranges?
+1. Yes
+2. No
+
+Does the class often hover in place while feeding or hunting?
+1. Yes
+2. No
+
+Is the class known for aerial acrobatics or forked tail shapes in flight?
+1. Yes
+2. No
+
+Does the class build nests in burrows or crevices rather than trees?
+1. Yes
+2. No
+
+Does the class have contrasting wing patches visible during flight?
+1. Yes
+2. No
+
+Is the class usually observed gliding for long distances with little wing movement?
+1. Yes
+2. No
+
+Does the class have a sharply hooked beak?
+1. Yes
+2. No
+
+Is the class primarily found in marshy or reed-filled wetlands?
+1. Yes
+2. No
+
+Does the class feature a prominent collar or band around the neck?
+1. Yes
+2. No
+
+Is the class typically seen on the ground rather than in trees?
+1. Yes
+2. No
+
+Is the class known for rapid, shallow wingbeats when flying?
+1. Yes
+2. No
+
+Does the class have distinct white outer tail feathers visible when flying?
+1. Yes
+2. No
+
+Is the class usually brightly colored in multiple hues rather than mostly uniform?
+1. Yes
+2. No
+
+Does the class have a short, stubby tail?
+1. Yes
+2. No
+
+Is the class associated with cliffs, rocky shores, or steep coastlines?
+1. Yes
+2. No
+
+Does the class typically fly in V-shaped or linear formations?
+1. Yes
+2. No
+
+Is the class distinguishable by a pronounced white or pale eyebrow line?
+1. Yes
+2. No
+
+Does the class often show wingbars or double bars across the wings?
+1. Yes
+2. No
+
+Is the class known for a harsh, metallic, or buzzing vocalization?
+1. Yes
+2. No
+
+Does the class exhibit behavior of hovering near flowers or feeders?
+1. Yes
+2. No
+
+Is the class identified by long legs compared to other small or medium birds?
+1. Yes
+2. No
+
+Does the class possess strong patterning with sharply contrasting colors (e.g. black and white)?
+1. Yes
+2. No
+
+Does the class exhibit a predominantly white or light-colored body with dark wingtips or accents?
+1. Yes
+2. No

@@ -1,0 +1,349 @@
+What kind of surface does the class most commonly interact with?  
+1. Ground  
+2. Water  
+3. Air  
+4. Furniture  
+5. Electronics  
+
+What is the primary purpose or function associated with the class?  
+1. Transportation  
+2. Communication  
+3. Decoration  
+4. Predation  
+5. Musical performance  
+
+What is the dominant shape of the class?  
+1. Elongated  
+2. Circular  
+3. Angular  
+4. Symmetrical  
+5. Asymmetrical  
+
+What kind of movement is most typical for the class?  
+1. Walking  
+2. Flying  
+3. Swimming  
+4. Stationary  
+5. Rolling  
+
+What is the scale of the class in real life?  
+1. Very small  
+2. Small  
+3. Medium  
+4. Large  
+5. Enormous  
+
+What part of the class is typically the most identifiable?  
+1. Head  
+2. Appendages  
+3. Silhouette  
+4. Pattern  
+5. Accessory  
+
+What kind of environment is the class most likely found in?  
+1. Ocean  
+2. Sky  
+3. Forest  
+4. Domestic  
+5. Urban  
+
+What is the class made of?  
+1. Metal  
+2. Plastic  
+3. Wood  
+4. Flesh  
+5. Stone  
+
+How is the class commonly perceived emotionally?  
+1. Friendly  
+2. Dangerous  
+3. Mysterious  
+4. Sacred  
+5. Functional  
+
+What is the class most often associated with?  
+1. Art  
+2. Nature  
+3. Religion  
+4. Warfare  
+5. Entertainment  
+
+What kind of edges does the class have?  
+1. Smooth  
+2. Jagged  
+3. Curved  
+4. Angular  
+5. Mixed  
+
+What form of energy or force is the class associated with?  
+1. Electricity  
+2. Gravity  
+3. Sound  
+4. Light  
+5. Muscle  
+
+What is the typical lifespan of the class (or the concept it represents)?  
+1. Temporary  
+2. Seasonal  
+3. Decades  
+4. Centuries  
+5. Timeless  
+
+What part of the body or structure dominates the class?  
+1. Face  
+2. Limbs  
+3. Torso  
+4. Wings  
+5. Tail  
+
+How does the class interact with humans?  
+1. Companion  
+2. Threat  
+3. Tool  
+4. Display  
+5. Curiosity  
+
+What is the material texture of the class?  
+1. Smooth  
+2. Rough  
+3. Hairy  
+4. Scaly  
+5. Glossy  
+
+What kind of symmetry does the class exhibit?  
+1. Bilateral  
+2. Radial  
+3. None  
+4. Rotational  
+5. Complex  
+
+Where is the class most likely found geographically?  
+1. Oceanic  
+2. Desert  
+3. Forest  
+4. Urban  
+5. Sky  
+
+How old is the origin of the class (evolutionarily or historically)?  
+1. Prehistoric  
+2. Ancient  
+3. Medieval  
+4. Industrial Age  
+5. Modern  
+
+What form of locomotion best describes the class?  
+1. Legs  
+2. Wings  
+3. Fins  
+4. Wheels  
+5. None  
+
+What sensory feature is most prominent in the class?  
+1. Eyes  
+2. Ears  
+3. Antennae  
+4. Mouth  
+5. Nose  
+
+Which form of expression best suits the class?  
+1. Sound  
+2. Movement  
+3. Color  
+4. Shape  
+5. Light  
+
+What is the class most vulnerable to?  
+1. Water  
+2. Fire  
+3. Time  
+4. Predators  
+5. Humans  
+
+How visually distinct is the class?  
+1. High-contrast  
+2. Camouflaged  
+3. Transparent  
+4. Uniform  
+5. Patterned  
+
+Which domain does the class mostly belong to?  
+1. Biology  
+2. Technology  
+3. Culture  
+4. Architecture  
+5. Machinery  
+
+How is the class primarily used by humans?  
+1. Entertainment  
+2. Utility  
+3. Decoration  
+4. Transportation  
+5. Study  
+
+What kind of noise is the class associated with?  
+1. Roar  
+2. Buzz  
+3. Silence  
+4. Hum  
+5. Click  
+
+Which cultural value is most associated with the class?  
+1. Peace  
+2. Power  
+3. Wisdom  
+4. Wealth  
+5. Mystery  
+
+Which type of motion does the class best represent?  
+1. Oscillating  
+2. Linear  
+3. Circular  
+4. Erratic  
+5. Static  
+
+What is the dominant color tone usually associated with the class?  
+1. Warm  
+2. Cool  
+3. Neutral  
+4. Monochrome  
+5. Multicolor  
+
+What type of complexity best fits the class?  
+1. Simple  
+2. Mechanical  
+3. Organic  
+4. Geometric  
+5. Intricate  
+
+What kind of line dominates the class design?  
+1. Straight  
+2. Curved  
+3. Zigzag  
+4. Spiral  
+5. Broken  
+
+What form of habitat or structure is related to the class?  
+1. Nest  
+2. Shell  
+3. Cave  
+4. Building  
+5. None  
+
+What is the relative speed of the class?  
+1. Stationary  
+2. Slow  
+3. Moderate  
+4. Fast  
+5. Extremely fast  
+
+What kind of posture does the class suggest?  
+1. Upright  
+2. Crouched  
+3. Horizontal  
+4. Floating  
+5. Reclined  
+
+How common is the class in everyday human experience?  
+1. Very common  
+2. Common  
+3. Uncommon  
+4. Rare  
+5. Mythical  
+
+Which kind of tool or object is the class most similar to in function?  
+1. Container  
+2. Weapon  
+3. Instrument  
+4. Vehicle  
+5. Furniture  
+
+What kind of sound environment would the class belong in?  
+1. Forest  
+2. Ocean  
+3. City  
+4. Concert  
+5. Silence  
+
+What is the most likely time of day to observe the class?  
+1. Morning  
+2. Afternoon  
+3. Evening  
+4. Night  
+5. Timeless  
+
+What level of abstraction is associated with the class?  
+1. Literal  
+2. Stylized  
+3. Symbolic  
+4. Abstract  
+5. Surreal  
+
+How much interaction does the class have with other classes?  
+1. High  
+2. Moderate  
+3. Low  
+4. Passive  
+5. Isolated  
+
+Which part of a museum would the class most likely appear in?  
+1. Natural History  
+2. Art  
+3. Technology  
+4. Music  
+5. Maritime  
+
+What is the emotional tone evoked by the class?  
+1. Awe  
+2. Joy  
+3. Fear  
+4. Curiosity  
+5. Nostalgia  
+
+What category of knowledge does the class most relate to?  
+1. Biology  
+2. Engineering  
+3. Culture  
+4. Physics  
+5. Math  
+
+What is the primary context in which the class appears?  
+1. Media  
+2. Nature  
+3. Household  
+4. Industry  
+5. Religion  
+
+What kind of protective feature does the class exhibit?  
+1. Armor  
+2. Camouflage  
+3. Speed  
+4. Shell  
+5. Stealth  
+
+What type of grouping best fits the class?  
+1. Solitary  
+2. Pair  
+3. Family  
+4. Swarm  
+5. Collective  
+
+What is the most notable movement or action of the class?  
+1. Crawling  
+2. Flying  
+3. Swimming  
+4. Leaping  
+5. Spinning  
+
+How symmetrical is the class?  
+1. Perfectly  
+2. Mostly  
+3. Somewhat  
+4. Minimally  
+5. Not at all  
+
+What cultural medium is the class most likely found in?  
+1. Sculpture  
+2. Cartoon  
+3. Photograph  
+4. Painting  
+5. Documentary

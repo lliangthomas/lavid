@@ -1,0 +1,249 @@
+Does the class have predominantly dark plumage overall?  
+    1. Mostly dark or black  
+    2. Combination of dark and light  
+    3. Mostly pale or white  
+
+Is the primary bill shape of the class slender and pointed?  
+    1. Long slender bill  
+    2. Short conical bill  
+    3. Thick hooked bill  
+
+Does the class typically show a visible crest or tuft on the head?  
+    1. Prominent crest always present  
+    2. Small crest or occasional raising of feathers  
+    3. Head appears smooth without crest  
+
+What is the general body size of the class compared with a common crow?  
+    1. Larger than a crow  
+    2. About the same size as a crow  
+    3. Smaller than a crow  
+
+Does the class usually inhabit open water when foraging?  
+    1. Frequently on open seas or large lakes  
+    2. Often near water edges or marshes  
+    3. Mostly in terrestrial or forested habitats  
+
+What is the dominant coloration of the class’s bill?  
+    1. Brightly colored (reds, oranges, yellows)  
+    2. Dark or black  
+    3. Pale or horn‑colored  
+
+How does the tail of the class appear in flight?  
+    1. Deeply forked or very long  
+    2. Rounded or slightly notched  
+    3. Square or wedge‑shaped  
+
+Does the class exhibit iridescent or glossy plumage?  
+    1. Strong iridescence over much of the body  
+    2. Limited glossy patches  
+    3. Matte or non‑iridescent overall  
+
+What is the primary leg length of the class relative to body?  
+    1. Very long legs clearly visible  
+    2. Medium legs proportionate to body  
+    3. Short legs largely hidden by feathers  
+
+Does the class show bold white patches on the wings in flight?  
+    1. Large obvious white patches or bars  
+    2. Small or subtle white markings  
+    3. No white patches on wings  
+
+Is the underpart of the class streaked or spotted?  
+    1. Heavily streaked or spotted  
+    2. Lightly streaked  
+    3. Plain or solid colored  
+
+What is the typical habitat altitude for the class?  
+    1. High cliffs, mountains, or alpine zones  
+    2. Lowland forests or shrublands  
+    3. Coastal or sea‑level habitats  
+
+Does the class typically perch vertically on tree trunks?  
+    1. Regularly clings upright to trunks  
+    2. Occasionally uses trunks but perches horizontally  
+    3. Rarely or never uses trunks  
+
+How does the class typically obtain food?  
+    1. Diving underwater  
+    2. Swooping to catch insects mid‑air  
+    3. Foraging on the ground or vegetation  
+
+Does the class have a noticeable eye ring or spectacle mark?  
+    1. Distinct bright eye ring  
+    2. Faint or partial eye ring  
+    3. No eye ring  
+
+What is the predominant color of the class’s throat?  
+    1. Bright contrasting color  
+    2. Same tone as breast  
+    3. Darker than surrounding plumage  
+
+Does the class show barring or spots on the back?  
+    1. Bold barring or mottling  
+    2. Fine or partial markings  
+    3. Plain back with no pattern  
+
+How would you describe the wing shape of the class?  
+    1. Long and narrow like a boomerang  
+    2. Broad and rounded  
+    3. Short and stubby  
+
+Does the class display a brightly colored crown distinct from the rest of the head?  
+    1. Crown a different bright color  
+    2. Crown slightly different shade  
+    3. Crown same color as head  
+
+What is the primary tail length of the class relative to body?  
+    1. Very long tail extending well past wings  
+    2. Medium tail about wing length  
+    3. Short tail ending before wing tips  
+
+When the class is at rest, what posture is most common?  
+    1. Upright on high exposed perch  
+    2. Horizontal along branches or ground  
+    3. Floating on water surface  
+
+Does the class have webbed feet?  
+    1. Fully webbed  
+    2. Partially webbed or lobed  
+    3. Not webbed  
+
+Is sexual dimorphism in plumage pronounced in the class?  
+    1. Males and females look very different  
+    2. Only slight differences  
+    3. Sexes look alike  
+
+Does the class show a contrasting rump color visible in flight?  
+    1. Rump a strikingly different color  
+    2. Rump slightly contrasting  
+    3. Rump blends with body color  
+
+What is the dominant breast coloration of the class?  
+    1. Bright yellow or orange  
+    2. White or pale  
+    3. Dark or mottled  
+
+Does the class display wing bars (contrasting lines across wings)?  
+    1. Two or more distinct wing bars  
+    2. One subtle wing bar  
+    3. No wing bars  
+
+How prominent is the bill compared with the head size in the class?  
+    1. Exceptionally large and stout  
+    2. Moderate and proportionate  
+    3. Small and delicate  
+
+Does the class have any facial mask or band through the eye?  
+    1. Bold dark mask  
+    2. Faint mask or line  
+    3. No mask  
+
+Which environment does the class favor during breeding?  
+    1. Open grasslands or prairies  
+    2. Dense woodland or forest  
+    3. Cliffs, rocky coasts, or islands  
+
+What color best describes the upperparts of the class?  
+    1. Predominantly brown tones  
+    2. Predominantly gray or black  
+    3. Predominantly blue or green hues  
+
+Does the class exhibit any elongated ornamental feathers?  
+    1. Clearly extended plumes or tail streamers  
+    2. Slightly elongated feathers  
+    3. No ornamental elongation  
+
+How does the bill of the class curve?  
+    1. Downward‑curved  
+    2. Straight  
+    3. Upward‑curved  
+
+What is the typical color of the legs or feet in the class?  
+    1. Bright or contrasting colors  
+    2. Neutral gray or brown  
+    3. Black or very dark  
+
+Does the class show a distinct breast band or collar?  
+    1. Bold complete band  
+    2. Partial or faint band  
+    3. No band  
+
+What is the dominant pattern on the flanks of the class?  
+    1. Heavy streaks  
+    2. Spots or scallops  
+    3. Plain  
+
+Which tail pattern best fits the class?  
+    1. Strong contrasting tip or bands  
+    2. Subtle patterning  
+    3. Uniform color  
+
+Does the class frequently hover in place while feeding?  
+    1. Regularly hovers  
+    2. Occasionally hovers  
+    3. Rarely or never hovers  
+
+How visible is the supercilium (eyebrow line) on the class?  
+    1. Bright and broad  
+    2. Thin or broken  
+    3. Absent  
+
+What is the primary coloration of the underwing in the class?  
+    1. Light or white  
+    2. Contrasting dark and light pattern  
+    3. Uniform dark  
+
+Does the class often form large social flocks outside breeding?  
+    1. Huge flocks with hundreds  
+    2. Moderate groups  
+    3. Solitary or small family groups  
+
+How does the class’s bill tip coloration appear?  
+    1. Tip a different contrasting color  
+    2. Slightly paler tip  
+    3. Tip same color as rest of bill  
+
+What is the dominant color on the vent area (under tail) of the class?  
+    1. Bright or contrasting patch  
+    2. Slightly paler than belly  
+    3. Same as surrounding plumage  
+
+Does the class have visible ear coverts of a contrasting color?  
+    1. Boldly contrasting ear patch  
+    2. Subtle difference  
+    3. No contrast  
+
+Which flight style best describes the class?  
+    1. Soaring with minimal wingbeats  
+    2. Rapid continuous flapping  
+    3. Alternating flaps and glides  
+
+How prominent are the nostril tubes or ridges on the bill of the class?  
+    1. Obvious external tubes  
+    2. Slight ridges  
+    3. Smooth without tubes  
+
+Does the class show contrast between the upper breast and throat coloration?  
+    1. Strong contrast  
+    2. Mild contrast  
+    3. No contrast  
+
+What color is most visible on the leading edge of the wing of the class?  
+    1. White or very light  
+    2. Bright warm color (red/orange/yellow)  
+    3. Dark or same as wing  
+
+During the breeding season, how vividly colored is the class?  
+    1. Extremely vivid and bright  
+    2. Moderately colorful  
+    3. Dull or cryptic  
+
+Does the class possess facial wattles, horns, or unique bill projections?  
+    1. Pronounced ornamental structures  
+    2. Minor protrusions or bumps  
+    3. None present  
+
+When perched, how far does the tail of the class extend beyond the folded wings?  
+    1. Tail significantly longer than wings  
+    2. Tail about equal to wings  
+    3. Tail shorter than wings

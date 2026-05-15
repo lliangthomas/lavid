@@ -1,0 +1,349 @@
+What material is most prominent on the surface of the class?  
+    1. Metal  
+    2. Wood  
+    3. Plastic  
+    4. Glass  
+    5. Fabric  
+
+What primary shape is the body of the class closest to?  
+    1. Sphere  
+    2. Cube  
+    3. Cylinder  
+    4. Disc  
+    5. Cone  
+
+What is the main color tone of the class?  
+    1. Metallic grey  
+    2. Bright yellow  
+    3. Deep brown  
+    4. Matte black  
+    5. Shiny white  
+
+Which size best describes the class when placed next to a person?  
+    1. Much smaller than a hand  
+    2. Hand-sized  
+    3. Arm-length  
+    4. Torso-sized  
+    5. Larger than a person  
+
+How would you describe the complexity of the surface of the class?  
+    1. Smooth and simple  
+    2. Intricately detailed  
+    3. Textured with patterns  
+    4. Covered with buttons or parts  
+    5. Open framework  
+
+What type of environment is the class most likely seen in?  
+    1. Home  
+    2. Stage performance  
+    3. Battlefield  
+    4. Construction site  
+    5. Amusement park  
+
+What is the most notable feature of the class?  
+    1. Strings  
+    2. Rotating parts  
+    3. Shiny reflective surface  
+    4. Bright light source  
+    5. Tubular structure  
+
+How many distinct main parts does the class visually have?  
+    1. Single block  
+    2. Two attached sections  
+    3. Three clear parts  
+    4. A complex mesh  
+    5. Spread components  
+
+What visual pattern best matches the class?  
+    1. Striped  
+    2. Dotted  
+    3. Plain solid color  
+    4. Gridded  
+    5. Marbled  
+
+Does the class typically feature any visible text or numbers?  
+    1. No, plain surface  
+    2. Numbers only  
+    3. Letters only  
+    4. Both numbers and letters  
+    5. Symbols  
+
+What direction does the major axis of the class usually align?  
+    1. Vertical  
+    2. Horizontal  
+    3. Diagonal  
+    4. Circular  
+    5. Varies greatly  
+
+How does the class interact with its environment visually?  
+    1. Emits light  
+    2. Reflects surroundings  
+    3. Absorbs light  
+    4. Moves visibly  
+    5. Remains static  
+
+What kind of mechanical movement is associated with the class?  
+    1. Spinning  
+    2. Sliding  
+    3. Swinging  
+    4. Pumping  
+    5. Clicking  
+
+How does the class mostly produce sound or light?  
+    1. By being struck  
+    2. By vibrating  
+    3. By heating up  
+    4. By electricity  
+    5. No sound or light  
+
+What type of symmetry is most visible in the class?  
+    1. Radial  
+    2. Bilateral  
+    3. Asymmetrical  
+    4. Rotational  
+    5. Grid symmetry  
+
+What is the primary visual impression when viewing the class?  
+    1. Musical  
+    2. Industrial  
+    3. Playful  
+    4. Dangerous  
+    5. Technical  
+
+What is the main function of the class inferred by its shape?  
+    1. Measuring  
+    2. Sound production  
+    3. Fast movement  
+    4. Light generation  
+    5. Computing  
+
+What visual element stands out most on the class?  
+    1. Gears  
+    2. Strings  
+    3. Tubes  
+    4. Wheels  
+    5. Lights  
+
+How would you describe the visual edges of the class?  
+    1. Sharp and pointed  
+    2. Soft and rounded  
+    3. Jagged and irregular  
+    4. Flat and smooth  
+    5. Varied textures  
+
+What typical visual accessory is present with the class?  
+    1. Stand  
+    2. Case  
+    3. Cable  
+    4. Handle  
+    5. Display screen  
+
+What feeling does the design of the class visually invoke?  
+    1. Calm and natural  
+    2. Aggressive and mechanical  
+    3. Mysterious and antique  
+    4. Bright and fun  
+    5. Clinical and precise  
+
+What kind of repetitive pattern is notable on the class?  
+    1. Radiating lines  
+    2. Circular nodes  
+    3. Linear arrays  
+    4. Gridded layouts  
+    5. Random markings  
+
+What is the surface finish most associated with the class?  
+    1. Glossy  
+    2. Matte  
+    3. Brushed  
+    4. Textured rough  
+    5. Smooth polished  
+
+What size of details dominates the class’s appearance?  
+    1. Very fine intricate details  
+    2. Moderate sized components  
+    3. Large visible parts  
+    4. Broad smooth surfaces  
+    5. Combination of fine and large  
+
+What condition is the class most visually adapted for?  
+    1. High pressure  
+    2. Loud environments  
+    3. Outdoor exposure  
+    4. Wet areas  
+    5. Indoor safety  
+
+What is the typical proportion of the class’s largest section?  
+    1. Thin and long  
+    2. Compact and square  
+    3. Wide and flat  
+    4. Spherical  
+    5. Tapered  
+
+What visual construction method is noticeable in the class?  
+    1. Welded metal  
+    2. Carved wood  
+    3. Molded plastic  
+    4. Stitched fabric  
+    5. Assembled gears  
+
+How would you describe the main user interface of the class visually?  
+    1. Buttons  
+    2. Knobs  
+    3. Strings  
+    4. Keypads  
+    5. No interface  
+
+What background is most visually associated with the class?  
+    1. Stage backdrop  
+    2. Factory setting  
+    3. Office desk  
+    4. Open outdoor space  
+    5. Store shelf  
+
+What is the most frequent color contrast seen on the class?  
+    1. Dark body, light accents  
+    2. Light body, dark accents  
+    3. Uniform color  
+    4. Multi-colored patchwork  
+    5. Metallic shine  
+
+What lighting condition best reveals the features of the class?  
+    1. Bright overhead light  
+    2. Soft side lighting  
+    3. Direct spotlight  
+    4. Dim ambient light  
+    5. Natural daylight  
+
+What is the relative fragility visually implied by the class?  
+    1. Extremely fragile  
+    2. Somewhat delicate  
+    3. Moderately sturdy  
+    4. Tough and rugged  
+    5. Indestructible appearance  
+
+What is the primary way the class stands or is supported?  
+    1. Built-in stand  
+    2. Hanging  
+    3. Lying flat  
+    4. Mounted on wheels  
+    5. Hand-held  
+
+What type of visual technology is apparent on the class?  
+    1. Analog dials  
+    2. Digital displays  
+    3. No visible technology  
+    4. Mechanical parts only  
+    5. Lights and sensors  
+
+What is the main relationship between the parts of the class visually?  
+    1. Fixed together  
+    2. Rotating joints  
+    3. Flexible connections  
+    4. Hinged openings  
+    5. Removable sections  
+
+What is the primary distance between the class and its operator visually?  
+    1. Direct contact  
+    2. Hand's reach  
+    3. Arm's length  
+    4. Across a room  
+    5. Mounted far away  
+
+What is the dominant artistic style seen in the class?  
+    1. Sleek modernism  
+    2. Classic craftsmanship  
+    3. Rustic vintage  
+    4. Futuristic minimalism  
+    5. Playful cartoonish  
+
+Which sense other than sight seems most related to interacting with the class visually?  
+    1. Hearing  
+    2. Touch  
+    3. Smell  
+    4. Taste  
+    5. Balance  
+
+What emotional tone does the appearance of the class suggest?  
+    1. Joyful  
+    2. Serious  
+    3. Threatening  
+    4. Peaceful  
+    5. Curious  
+
+What is the primary way the class is activated or used, visually?  
+    1. Pushing  
+    2. Pulling  
+    3. Pressing  
+    4. Twisting  
+    5. Striking  
+
+What type of movement does the design of the class suggest visually?  
+    1. Rotating  
+    2. Vibrating  
+    3. Projecting  
+    4. Swinging  
+    5. Squeezing  
+
+What type of mark or impression would the class likely leave visually?  
+    1. Scratch  
+    2. Burn mark  
+    3. Dimple  
+    4. Smudge  
+    5. No visible mark  
+
+Which elemental force is visually most associated with the class?  
+    1. Fire  
+    2. Water  
+    3. Air  
+    4. Earth  
+    5. Light  
+
+What visual detail most suggests how the class is powered?  
+    1. Batteries  
+    2. Cords  
+    3. Wind-up mechanism  
+    4. Fuel tanks  
+    5. Human force  
+
+What is the visual density of the class’s components?  
+    1. Tightly packed  
+    2. Moderately spaced  
+    3. Sparse  
+    4. Layered depth  
+    5. Surface-only details  
+
+What visual appearance suggests the durability of the class?  
+    1. Heavy-duty casing  
+    2. Thin, delicate materials  
+    3. Mixed materials  
+    4. Reinforced edges  
+    5. Open fragile structure  
+
+What decorative element is most common visually on the class?  
+    1. Carved patterns  
+    2. Painted designs  
+    3. Embossed logos  
+    4. Shiny trim  
+    5. None  
+
+What main geometric feature is visible in the class’s design?  
+    1. Circle  
+    2. Triangle  
+    3. Rectangle  
+    4. Spiral  
+    5. Random shapes  
+
+What is the dominant visual feature size on the class?  
+    1. Micro-details  
+    2. Fine small parts  
+    3. Medium-sized features  
+    4. Large sweeping forms  
+    5. Giant components  
+
+What mechanical principle is most visibly suggested by the design of the class?  
+    1. Tension  
+    2. Compression  
+    3. Rotation  
+    4. Vibration  
+    5. Projection

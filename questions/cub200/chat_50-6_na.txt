@@ -1,0 +1,399 @@
+What is the dominant coloration of the class's plumage?
+1. Mostly black
+2. Mostly white
+3. Mostly gray
+4. Mostly brown
+5. Mostly yellow
+6. Not applicable
+
+What is the primary color on the head of the class?
+1. Red
+2. Black
+3. Blue
+4. Green
+5. Gray
+6. Not applicable
+
+Does the class have a noticeable crest or tuft on its head?
+1. Prominent and upright
+2. Small and rounded
+3. Flattened against the head
+4. Absent
+5. Pointed but drooping
+6. Not applicable
+
+What is the typical beak shape of the class?
+1. Long and pointed
+2. Short and thick
+3. Hooked at the tip
+4. Straight and narrow
+5. Curved downward
+6. Not applicable
+
+What is the body size of the class relative to others?
+1. Very small
+2. Small
+3. Medium
+4. Large
+5. Very large
+6. Not applicable
+
+What is the dominant wing coloration of the class?
+1. Solid black
+2. Black with white patches
+3. Brown with streaks
+4. Blue or green hues
+5. Yellow or orange highlights
+6. Not applicable
+
+Does the class have any distinctive facial markings?
+1. Eye stripe
+2. Cheek patch
+3. Mask
+4. No distinctive markings
+5. Full facial coloration
+6. Not applicable
+
+Where is the class most often found in terms of habitat?
+1. Open fields
+2. Dense forests
+3. Coastal cliffs
+4. Marshes or wetlands
+5. Urban areas
+6. Not applicable
+
+What is the primary tail feature of the class?
+1. Forked tail
+2. Rounded tail
+3. Very long tail
+4. Short and stubby
+5. Tail with spots or stripes
+6. Not applicable
+
+What color is the underbelly of the class?
+1. White
+2. Yellow
+3. Gray
+4. Black
+5. Red
+6. Not applicable
+
+Does the class show any iridescent plumage in light?
+1. Brightly iridescent
+2. Slight shimmer
+3. Matte, no reflection
+4. Iridescent only on wings
+5. Iridescent only on head
+6. Not applicable
+
+How is the posture of the class when perched?
+1. Upright and alert
+2. Slouched
+3. Horizontal alignment
+4. Hunched with head forward
+5. Tail angled downward
+6. Not applicable
+
+What is the most visible feature during flight for the class?
+1. Wing shape
+2. Color contrasts
+3. Tail movement
+4. Head shape
+5. Body outline
+6. Not applicable
+
+Does the class have any leg or foot color that stands out?
+1. Bright red or orange
+2. Black
+3. Pale pink or gray
+4. Yellow
+5. Blue
+6. Not applicable
+
+Does the class show sexual dimorphism (visual differences between sexes)?
+1. Strong dimorphism
+2. Moderate dimorphism
+3. Subtle dimorphism
+4. No visible dimorphism
+5. Only during breeding season
+6. Not applicable
+
+How does the class's plumage change with season?
+1. Dramatic change in color
+2. Slight change in brightness
+3. Molts into duller tones
+4. No noticeable change
+5. Brightens during winter
+6. Not applicable
+
+Where is the class typically observed sitting?
+1. High perches like treetops
+2. On water
+3. Ground level
+4. In reeds or tall grass
+5. On buildings or wires
+6. Not applicable
+
+Does the class have any distinctive beak coloration?
+1. Solid black
+2. Bright yellow or orange
+3. Mixed (two-toned)
+4. Pale or horn-colored
+5. Blue or green tinted
+6. Not applicable
+
+How is the flight pattern of the class visually identified?
+1. Soaring with wings flat
+2. Flapping in bursts
+3. Gliding with shallow dips
+4. Rapid and erratic
+5. Hovering or fluttering
+6. Not applicable
+
+Does the class typically appear alone or in groups?
+1. Solitary
+2. Small pairs
+3. Medium groups
+4. Large flocks
+5. Mixed with other species
+6. Not applicable
+
+What is the most vibrant feature on the class's body?
+1. Head
+2. Wings
+3. Chest
+4. Tail
+5. Back
+6. Not applicable
+
+How is the wing shape of the class best described?
+1. Long and narrow
+2. Short and rounded
+3. Tapered with pointed tips
+4. Broad and curved
+5. Straight and rigid
+6. Not applicable
+
+What is the typical eye color or ring around the eye of the class?
+1. Red
+2. Yellow
+3. White ring
+4. Black
+5. No visible contrast
+6. Not applicable
+
+What visual trait is prominent during courtship in the class?
+1. Color display
+2. Wing spreading
+3. Tail fanning
+4. Puffing chest feathers
+5. Crest raising
+6. Not applicable
+
+What kind of visual camouflage does the class exhibit?
+1. Matches bark or ground
+2. Mimics foliage
+3. Contrasts background
+4. No camouflage
+5. Blends with water
+6. Not applicable
+
+What kind of tail coloration does the class have?
+1. Solid color
+2. Striped
+3. Spotted
+4. Two-toned
+5. Colored tips
+6. Not applicable
+
+How is the back plumage patterned on the class?
+1. Striped
+2. Spotted
+3. Plain
+4. Mottled
+5. Iridescent
+6. Not applicable
+
+How does the class hold its wings while perched?
+1. Tucked close
+2. Slightly drooped
+3. Held away from body
+4. Raised and alert
+5. Overlapping tail
+6. Not applicable
+
+What is the head shape of the class from the side view?
+1. Rounded
+2. Flat-topped
+3. Pointed
+4. Sloped back
+5. Crested
+6. Not applicable
+
+What kind of environment is often photographed with the class?
+1. Snowy areas
+2. Rocky coasts
+3. Dense forests
+4. Open water
+5. Dry grasslands
+6. Not applicable
+
+Does the class display any color asymmetry?
+1. Yes, left/right differences
+2. Yes, top/bottom contrasts
+3. No, symmetrical
+4. Yes, front/back difference
+5. Only during molt
+6. Not applicable
+
+What is the overall visual impression of the class?
+1. Sleek and streamlined
+2. Fluffy and compact
+3. Gangly and long-limbed
+4. Bold and colorful
+5. Drab and muted
+6. Not applicable
+
+What is the color of the wing bars or markings of the class?
+1. White
+2. Yellow
+3. Blue
+4. Black
+5. Absent
+6. Not applicable
+
+What kind of nest location is associated visually with the class?
+1. Cliff ledges
+2. Tree branches
+3. Ground nests
+4. Cavities or holes
+5. Man-made structures
+6. Not applicable
+
+What kind of primary movement is observed visually from the class?
+1. Hopping
+2. Walking
+3. Swimming
+4. Climbing
+5. Hovering
+6. Not applicable
+
+How is the neck length of the class visually characterized?
+1. Very short
+2. Medium
+3. Long and slender
+4. Thick and short
+5. Not visually distinct
+6. Not applicable
+
+What kind of leg length does the class have?
+1. Very short
+2. Short
+3. Medium
+4. Long
+5. Extremely long
+6. Not applicable
+
+Is there a visual difference in juvenile plumage for the class?
+1. Completely different
+2. Slightly muted
+3. Pattern changes
+4. No change
+5. Extra fluff
+6. Not applicable
+
+How is the chest or breast pattern of the class best described?
+1. Solid color
+2. Streaked
+3. Spotted
+4. Irregular blotches
+5. Two-toned
+6. Not applicable
+
+What kind of head posture does the class usually have?
+1. Tilted upward
+2. Level
+3. Tucked down
+4. Head forward
+5. Constantly moving
+6. Not applicable
+
+What is the class's typical behavior when approached?
+1. Flies off immediately
+2. Stays still
+3. Hops away
+4. Calls loudly
+5. Hides in cover
+6. Not applicable
+
+How would you describe the class’s overall feather texture visually?
+1. Smooth
+2. Fluffy
+3. Scruffy
+4. Glossy
+5. Sparse
+6. Not applicable
+
+How do the feet of the class appear visually?
+1. Webbed
+2. Long-toed
+3. Clawed
+4. Feathered
+5. Short and thick
+6. Not applicable
+
+What color is the rump or lower back area of the class?
+1. Bright red or orange
+2. Yellow or white
+3. Blue or green
+4. Blends with back
+5. Contrasting pattern
+6. Not applicable
+
+How does the class behave while feeding, visually?
+1. Dives into water
+2. Pecks at ground
+3. Hovers over flowers
+4. Flips leaves
+5. Sits and waits
+6. Not applicable
+
+Does the class have any visible body shape adaptation?
+1. Streamlined for flight
+2. Rounded for insulation
+3. Flat for swimming
+4. Slender for perching
+5. Broad for gliding
+6. Not applicable
+
+What is the color pattern on the throat of the class?
+1. Solid bright color
+2. Spotted
+3. Streaked
+4. Contrasting patch
+5. Faded or blended
+6. Not applicable
+
+How do the primary feathers of the class differ visually?
+1. Longer than body
+2. Very short
+3. Rounded ends
+4. Sharp, pointed ends
+5. Thick and blunt
+6. Not applicable
+
+Does the class exhibit any behavior visible during flight that is unique?
+1. Hovering
+2. Tumbling
+3. Soaring in circles
+4. Gliding with wings held in a V
+5. Wingbeats with pauses
+6. Not applicable
+
+What is the bill-to-head ratio visually like for the class?
+1. Bill longer than head
+2. Equal length
+3. Shorter bill
+4. Bill curves downward
+5. Bill curves upward
+6. Not applicable

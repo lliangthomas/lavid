@@ -1,0 +1,349 @@
+What texture best describes the fur or skin of the class?
+    1. Smooth and shiny
+    2. Coarse and thick
+    3. Fluffy and soft
+    4. Sparse and wiry
+    5. Rough and scruffy
+
+What type of tail does the class most commonly have?
+    1. Long and bushy
+    2. Short and curly
+    3. Thick and flat
+    4. Slim and pointed
+    5. None or barely visible
+
+What environment is the class most often found in?
+    1. Dense forest
+    2. Open grassland
+    3. Coastal waters
+    4. Desert plains
+    5. Mountainous regions
+
+How big is the class compared to a human?
+    1. Much smaller
+    2. About the same
+    3. Much larger
+    4. Significantly smaller but still noticeable
+    5. Giant size
+
+What kind of ears does the class have?
+    1. Large and floppy
+    2. Small and pointed
+    3. Rounded and flat
+    4. Upright and stiff
+    5. Hidden in fur
+
+What is the primary body shape of the class?
+    1. Long and slender
+    2. Stocky and powerful
+    3. Compact and rounded
+    4. Tall and lean
+    5. Short and stout
+
+What color is most dominant on the class?
+    1. Shades of brown
+    2. Black and white
+    3. Gray tones
+    4. Golden or sandy
+    5. Bright or multicolored
+
+What is the dominant locomotion method of the class?
+    1. Walking
+    2. Running
+    3. Hopping
+    4. Swimming
+    5. Climbing
+
+What eye shape best describes the class?
+    1. Small and narrow
+    2. Large and round
+    3. Slanted and intense
+    4. Wide and curious
+    5. Deep-set and hidden
+
+What kind of nose or snout does the class have?
+    1. Long and pointed
+    2. Short and broad
+    3. Flattened and wide
+    4. Rounded and petite
+    5. Elongated and tubular
+
+What is the most noticeable feature about the class’s legs?
+    1. Short and thick
+    2. Long and skinny
+    3. Muscular and sturdy
+    4. Webbed feet
+    5. Tiny and hidden
+
+How does the class's fur or covering behave in water?
+    1. Water-repellent
+    2. Easily soaked
+    3. Floats on surface
+    4. Dries quickly
+    5. Heavy and sagging
+
+What feature stands out most about the class’s face?
+    1. A pronounced muzzle
+    2. Large, expressive eyes
+    3. Flat, wide face
+    4. Sharp cheekbones
+    5. Beak-like structure
+
+What best describes the size of the class's paws or feet?
+    1. Tiny and delicate
+    2. Large and padded
+    3. Medium and agile
+    4. Webbed and flat
+    5. Hoof-like
+
+What behavior would you most associate with the class?
+    1. Digging
+    2. Climbing
+    3. Swimming
+    4. Running fast
+    5. Flying or gliding
+
+How would you describe the movement style of the class?
+    1. Graceful and flowing
+    2. Heavy and lumbering
+    3. Quick and darting
+    4. Cautious and sneaky
+    5. Energetic and bouncy
+
+What is the main texture of the class's nose?
+    1. Wet and shiny
+    2. Dry and cracked
+    3. Hard and leathery
+    4. Soft and velvety
+    5. Barely noticeable
+
+What size ears does the class have relative to its head?
+    1. Very large
+    2. Small and close-set
+    3. Medium and upright
+    4. Drooping down
+    5. Hidden within fur
+
+How would you describe the class’s mouth?
+    1. Wide and flat
+    2. Pointed and small
+    3. Large with visible teeth
+    4. Thin and hidden
+    5. Curved upward
+
+How many toes or claws does the class have on each limb?
+    1. Two
+    2. Three
+    3. Four
+    4. Five
+    5. Variable
+
+What overall body covering best describes the class?
+    1. Fur
+    2. Feathers
+    3. Scales
+    4. Bare skin
+    5. Bristles
+
+What kind of coloration patterns are most visible on the class?
+    1. Solid color
+    2. Stripes
+    3. Spots
+    4. Patches
+    5. Blended shading
+
+What is the class's head shape like?
+    1. Narrow and elongated
+    2. Broad and flat
+    3. Rounded and compact
+    4. Square and blocky
+    5. Triangular
+
+Which description fits the class’s eyes?
+    1. Forward-facing and alert
+    2. Side-positioned and cautious
+    3. Deep and hidden
+    4. Large and protruding
+    5. Small and slanted
+
+What material seems most like the class's outer coat?
+    1. Wool
+    2. Velvet
+    3. Steel wool
+    4. Silk
+    5. Plastic
+
+What feature dominates the chest area of the class?
+    1. Broad and muscular
+    2. Narrow and tucked
+    3. Fluffy and rounded
+    4. Flat and sleek
+    5. Wide with loose skin
+
+What does the class's typical habitat smell like?
+    1. Fresh and earthy
+    2. Salty and aquatic
+    3. Dusty and dry
+    4. Musky and dense
+    5. Crisp and cold
+
+What typical sound is the class most associated with?
+    1. Bark or growl
+    2. Whistle or squeak
+    3. Roar or bellow
+    4. Chirp or trill
+    5. Grunt or snort
+
+What is the class’s jawline like?
+    1. Prominent and muscular
+    2. Smooth and sleek
+    3. Short and stubby
+    4. Pointed and narrow
+    5. Wide and boxy
+
+How would you describe the outline of the class's body?
+    1. Rectangular
+    2. Oval
+    3. Triangular
+    4. Circular
+    5. Irregular
+
+What is most notable about the class’s neck?
+    1. Very long
+    2. Thick and short
+    3. Medium and sturdy
+    4. Barely visible
+    5. Covered in mane
+
+What structure is the class’s tail most like?
+    1. Whip
+    2. Feather duster
+    3. Paddle
+    4. Fluffy plume
+    5. Thick rope
+
+What feature of the class’s body stands out most?
+    1. Large hind legs
+    2. Massive front shoulders
+    3. Long torso
+    4. Wide hips
+    5. Compact body
+
+What is the class’s typical skin or fur pattern?
+    1. Monochrome
+    2. Bicolor
+    3. Tricolor
+    4. Mottled
+    5. Speckled
+
+What would best describe the class's silhouette?
+    1. Angular
+    2. Smooth and round
+    3. Compact and chunky
+    4. Long and flowing
+    5. Bulky and boxy
+
+What is the class’s preferred resting posture?
+    1. Lying flat
+    2. Sitting upright
+    3. Curled up
+    4. Hanging from something
+    5. Standing casually
+
+What kind of whiskers does the class most likely have?
+    1. Long and stiff
+    2. Short and sparse
+    3. Thick and curved
+    4. Barely visible
+    5. None at all
+
+What primary feature covers the class's feet?
+    1. Fur
+    2. Scales
+    3. Pads
+    4. Hooves
+    5. Webbing
+
+What is the texture of the class’s back?
+    1. Smooth and flexible
+    2. Coarse and rigid
+    3. Fluffy and uneven
+    4. Slick and wet
+    5. Bristly and rough
+
+What shape do the class’s nostrils take?
+    1. Vertical slits
+    2. Round holes
+    3. Wide and open
+    4. Small and tight
+    5. Hidden and flat
+
+How does the class typically use its tail?
+    1. For balance
+    2. For swimming
+    3. For warmth
+    4. For communication
+    5. For defense
+
+What is the most common body position when alert for the class?
+    1. Ears perked and standing
+    2. Sitting upright
+    3. Lying still
+    4. Hunched and ready
+    5. Stretching up
+
+What primary sensory organ is most prominent in the class?
+    1. Nose
+    2. Eyes
+    3. Ears
+    4. Whiskers
+    5. Paws
+
+What type of limb posture best fits the class?
+    1. Upright and rigid
+    2. Bent and relaxed
+    3. Wide and crouched
+    4. Narrow and tucked
+    5. Forward-leaning
+
+What coat or skin condition is most typical for the class?
+    1. Constantly shedding
+    2. Smooth all year
+    3. Fluffy seasonally
+    4. Matted and thick
+    5. Greasy and slick
+
+What type of headgear (if any) would the class seem to have naturally?
+    1. Mane
+    2. Antlers
+    3. Horns
+    4. Tufts
+    5. None
+
+What is the most typical vocalization pitch of the class?
+    1. Very high
+    2. High
+    3. Medium
+    4. Low
+    5. Very low
+
+What kind of teeth does the class likely have?
+    1. Flat for grinding
+    2. Sharp for tearing
+    3. Mixed for general eating
+    4. Very small and even
+    5. Long and visible
+
+How prominent is the class’s tail?
+    1. Very noticeable
+    2. Barely noticeable
+    3. Medium and tucked
+    4. Large and flowing
+    5. No tail at all
+
+What size group does the class most often stay in?
+    1. Solitary
+    2. Pairs
+    3. Small groups
+    4. Large herds
+    5. Shifting groups

@@ -1,0 +1,489 @@
+What is the predominant color of the plumage for the class?
+    1. Mostly black or dark grey
+    2. Mostly brown or rufous
+    3. Mostly white or light grey
+    4. Brightly colored (blue, red, yellow, or green dominant)
+    5. A mix of distinct colors with no single dominant shade
+
+Does the class typically have a prominent crest on its head?
+    1. Yes, a distinct, often pointed or bushy crest
+    2. Yes, a subtle or shaggy crest
+    3. No crest, head feathers are smooth
+    4. Sometimes a slight raising of crown feathers, but not a true crest
+    5. Head shape is elongated or unique, making 'crest' not applicable
+
+What is the primary color of the beak/bill for the class?
+    1. Black or dark grey
+    2. Yellow or orange
+    3. Pink or reddish
+    4. Grey, horn-colored, or pale
+    5. Bi-colored (e.g., black and yellow, grey and pink)
+
+Does the class have noticeable wing bars (bands of color across the folded wing)?
+    1. Yes, two distinct white or light-colored wing bars
+    2. Yes, one distinct wing bar
+    3. Yes, wing bars are present but may be faint, broken, or colored (e.g., yellow, rufous)
+    4. No distinct wing bars, wings are plain or uniformly patterned
+    5. Wings have large patches of color or complex patterns, not simple bars
+
+What is the color of the breast/chest for the class?
+    1. White or very light grey
+    2. Yellow or orange
+    3. Red, pink, or deep rufous
+    4. Brown, streaked, or spotted brown/grey
+    5. Black, dark grey, or iridescent dark color
+
+Is the tail shape of the class notably forked or notched?
+    1. Deeply forked tail
+    2. Slightly notched or emarginate tail
+    3. Square or slightly rounded tail tip
+    4. Pointed or wedge-shaped tail
+    5. Long, flowing, or uniquely shaped tail (not simply forked/notched)
+
+Does the class have a distinct eye ring (a ring of color around the eye)?
+    1. Yes, a prominent white eye ring
+    2. Yes, a prominent colored eye ring (yellow, red, blue)
+    3. Yes, a thin or broken eye ring
+    4. No eye ring, but area around eye might be different colored feathers (e.g., eye stripe)
+    5. No eye ring or distinct feathers around the eye
+
+What is the overall size category of the class?
+    1. Very small (e.g., warbler, wren, hummingbird size)
+    2. Small (e.g., sparrow, finch size)
+    3. Medium (e.g., robin, blackbird, jay size)
+    4. Large (e.g., crow, gull, duck size)
+    5. Very large (e.g., pelican, albatross, cormorant size)
+
+Is the underbelly (below the chest) of the class primarily white or light-colored?
+    1. Yes, clean white or pale grey belly
+    2. Mostly white/light but with some streaks, spots, or flank color
+    3. Belly is yellow, buff, or orange
+    4. Belly is brown, grey, or heavily streaked/spotted
+    5. Belly is black or very dark
+
+Does the class have a distinct cap (color on the top of the head contrasting with the face/nape)?
+    1. Yes, a black or very dark cap
+    2. Yes, a brown or rufous cap
+    3. Yes, a grey or blue-grey cap
+    4. Yes, a brightly colored cap (red, yellow, etc.) or striped crown
+    5. No distinct cap, head color is uniform or gradually changes
+
+What is the typical habitat where the class is most often found foraging or nesting?
+    1. Open ocean or coastal waters
+    2. Freshwater lakes, ponds, rivers, or marshes
+    3. Dense forests or woodlands
+    4. Open grasslands, fields, or scrubland
+    5. Desert, rocky areas, or urban/suburban environments
+
+Does the class display significant iridescence in its plumage?
+    1. Yes, strong iridescence, especially on the head or back (greens, purples, blues)
+    2. Yes, some iridescence, often subtle or limited to specific feather tracts
+    3. Plumage has a glossy sheen but not strong iridescence
+    4. Plumage is primarily matte, no iridescence
+    5. Plumage is very pale or white, making iridescence not applicable/visible
+
+What is the primary color of the legs and feet for the class?
+    1. Black or dark grey
+    2. Pink, reddish, or flesh-colored
+    3. Yellow or orange
+    4. Grey or greenish-grey
+    5. Blue or pale blue-grey
+
+Does the class have a prominent white patch on the wings, visible in flight or when perched?
+    1. Yes, large white patch(es) on the wings (primaries, secondaries, or coverts)
+    2. Yes, a small white patch or speculum
+    3. White edging on flight feathers, but no large patch
+    4. No prominent white wing patch
+    5. Wings are entirely white or extremely pale
+
+Is the throat color of the class distinctly different from the breast?
+    1. Yes, a bright white throat patch/bib
+    2. Yes, a black or dark throat patch/bib
+    3. Yes, a yellow or orange throat patch
+    4. Yes, a colored throat different from breast (e.g., grey throat, brown breast)
+    5. Throat color is the same or grades smoothly into the breast color
+
+Does the class have streaking on its underparts (breast, belly, flanks)?
+    1. Yes, heavy or dense streaking
+    2. Yes, fine or sparse streaking
+    3. Yes, spotting rather than streaking
+    4. Underparts are plain or have patches of color, but no streaks/spots
+    5. Underparts are entirely dark or black
+
+What is the shape of the beak/bill for the class?
+    1. Thin, pointed bill (insectivore/nectarivore type)
+    2. Stout, conical bill (seed-eating type)
+    3. Hooked or sharply curved bill (raptor/seabird/corvid type)
+    4. Long, dagger-like or spear-like bill (piscivore type)
+    5. Flattened, spatulate, or unusually shaped bill
+
+Does the class have a distinct eyebrow stripe (supercilium)?
+    1. Yes, a prominent white or pale eyebrow stripe
+    2. Yes, a prominent colored eyebrow stripe (yellow, buff, rufous)
+    3. Yes, a dark eyebrow stripe or line through the eye contrasting with lighter crown/cheeks
+    4. Eyebrow stripe is faint, broken, or absent
+    5. Head pattern is complex, making 'eyebrow stripe' difficult to define (e.g., masked, hooded)
+
+What is the color of the upperparts (back, mantle, wing coverts) for the class?
+    1. Primarily black or iridescent black/dark blue
+    2. Primarily brown or rufous (can be plain, streaked, or scaled)
+    3. Primarily grey or blue-grey
+    4. Primarily green or olive-green
+    5. Primarily white or very pale grey (may have dark markings)
+
+Is the class known for perching prominently on exposed branches, wires, or treetops?
+    1. Yes, habitually perches in exposed, high locations
+    2. Sometimes perches conspicuously, but also forages lower down or on the ground
+    3. Primarily forages and perches within dense foliage or undergrowth
+    4. Primarily found on the ground or very low vegetation
+    5. Primarily aquatic or aerial, rarely perches in typical 'songbird' fashion
+
+Does the class have a contrasting rump patch (area above the tail)?
+    1. Yes, a white rump patch
+    2. Yes, a yellow or greenish rump patch
+    3. Yes, a rufous or buffy rump patch
+    4. Rump is the same color as the back or slightly different shade, but not a distinct patch
+    5. Rump color is dark or black
+
+Does the class have outer tail feathers that are white or significantly lighter than the central tail feathers?
+    1. Yes, distinct white outer tail feathers, often flashed in flight/display
+    2. Yes, outer tail feathers are lighter (e.g., pale grey, buff) but not pure white
+    3. Tail has white tips or corners, but outer feathers not entirely white
+    4. Tail is uniform in color or has barring/central patterns
+    5. Tail is entirely white or very pale
+
+Is the head color of the class entirely black or very dark (forming a hood)?
+    1. Yes, a complete black or dark hood covering the entire head
+    2. Head is mostly black/dark but with contrasting throat, cheek, or nape patch
+    3. Head is dark but color is grey, blue, or brown, not black
+    4. Crown is dark, but face/cheeks are lighter
+    5. Head is predominantly light or brightly colored
+
+Does the class frequently forage by probing into crevices, bark, or mud?
+    1. Yes, probes bark or wood (like woodpecker, creeper, nuthatch)
+    2. Yes, probes mudflats, shorelines, or shallow water
+    3. Yes, probes into dense foliage, flowers, or leaf litter
+    4. Forages primarily by gleaning insects, catching prey in flight, or eating seeds/fruit without probing
+    5. Primarily dives for fish or aquatic invertebrates
+
+What is the typical appearance of the eye (color, surrounding feathers) for the class?
+    1. Dark eye, appears black or deep brown
+    2. Pale eye (yellow, white, red, orange)
+    3. Eye has a distinct pale or white iris contrasting with dark pupil
+    4. Eye is surrounded by bare skin (colored or dark)
+    5. Eye is part of a dark mask or stripe
+
+Does the class show barring (horizontal stripes) on its plumage?
+    1. Yes, prominent barring on the underparts (belly/flanks)
+    2. Yes, prominent barring on the upperparts (back/wings) or tail
+    3. Subtle or fine barring present
+    4. No barring, plumage is streaked, spotted, or plain
+    5. Plumage has large patches or areas of color, not fine barring
+
+Is the class sexually dimorphic (males and females look significantly different)?
+    1. Yes, strong dimorphism (e.g., male brightly colored, female drab)
+    2. Moderate dimorphism (males and females differ in pattern or shade, but less drastically)
+    3. Slight dimorphism (minor size or subtle plumage differences)
+    4. Monomorphic (males and females look identical or nearly identical)
+    5. Plumage varies significantly by age or season, more than by sex
+
+What color is the nape (back of the neck) for the class?
+    1. Nape is the same color as the back/mantle
+    2. Nape is contrastingly colored (e.g., grey nape on brown back, rufous nape on black back)
+    3. Nape has a distinct patch or collar (white, buff, etc.)
+    4. Nape color continues from a colored cap or hood
+    5. Nape area is indistinct due to head shape or uniform coloration
+
+Does the class have long legs relative to its body size?
+    1. Yes, noticeably long legs (like shorebirds, herons)
+    2. Moderately long legs
+    3. Legs are relatively short
+    4. Legs are very short or barely visible when perched/swimming
+    5. Body shape (e.g., long body of divers) makes leg length assessment difficult
+
+Is the overall shape of the class best described as plump or rounded?
+    1. Yes, distinctly plump, compact, or ball-like shape
+    2. Somewhat stout or chunky, but not extremely rounded
+    3. Body shape is average, neither particularly plump nor slender
+    4. Body shape is elongated or slender
+    5. Body shape is large and bulky (e.g., pelican, goose)
+
+Does the class have a noticeable malar stripe or whisker mark (a stripe extending down/back from the base of the bill)?
+    1. Yes, a distinct black or dark malar stripe
+    2. Yes, a distinct colored malar stripe (red, blue, etc.)
+    3. Yes, a pale or white malar stripe area bordered by darker lines
+    4. Malar area is present but indistinct or same color as throat/face
+    5. No malar stripe is present
+
+What is the primary color of the undertail coverts (feathers underneath the base of the tail)?
+    1. White or pale grey
+    2. Yellow, orange, or buff
+    3. Rufous or chestnut
+    4. Same color as the belly (e.g., brown, grey, streaked)
+    5. Black or dark grey
+
+Does the class typically swim or spend significant time on water?
+    1. Primarily aquatic, spends most time swimming or diving (e.g., ducks, loons, grebes, cormorants)
+    2. Often swims but also spends much time on land or flying (e.g., gulls, terns, some seabirds)
+    3. Wades in shallow water but doesn't typically swim (e.g., some shorebirds, kingfishers)
+    4. Occasionally enters water, but primarily terrestrial or arboreal
+    5. Never or very rarely enters water
+
+Does the class have conspicuous red or orange coloration anywhere on its body?
+    1. Yes, large areas of red/orange (head, breast, back)
+    2. Yes, smaller but distinct patches of red/orange (e.g., shoulder, wing patch, eye ring, cap)
+    3. Yes, subtle red/orange wash or highlights, or only on beak/legs
+    4. No red or orange coloration present
+    5. Reddish-brown (rufous) is present, but not bright red/orange
+
+Does the class have conspicuous blue coloration anywhere on its body?
+    1. Yes, large areas of bright blue (head, back, wings)
+    2. Yes, areas of duller blue, blue-grey, or iridescent blue/purple
+    3. Yes, small but distinct patches of blue (e.g., facial skin, speculum)
+    4. No blue coloration present
+    5. Grey or slate coloration is present, but not distinctly blue
+
+Does the class have conspicuous yellow coloration anywhere on its body?
+    1. Yes, large areas of bright yellow (breast, belly, back)
+    2. Yes, smaller but distinct patches of yellow (e.g., throat, cap, rump, wing bars)
+    3. Yes, olive-yellow or greenish-yellow tones
+    4. No yellow coloration present (may have buff or pale brown)
+    5. Yellow is present only on beak, legs, or eye ring
+
+Is the head of the class disproportionately large or small for its body size?
+    1. Head appears notably large (e.g., woodpeckers, kingfishers, owls - though none here)
+    2. Head appears notably small (e.g., pigeons, doves - though none here)
+    3. Head size is proportionate to the body
+    4. Head shape is unusual (e.g., elongated, crested) making size assessment secondary
+    5. Body size is very large or very small, making head proportion less defining
+
+Does the class exhibit countershading (dark upperparts, light underparts)?
+    1. Yes, classic strong countershading (e.g., dark grey/black back, white belly)
+    2. Yes, moderate countershading (e.g., brown/olive back, buff/pale belly)
+    3. Reverse countershading (lighter back, darker belly) or side-shading patterns
+    4. No significant countershading, relatively uniform color all around
+    5. Complex patterns (streaks, spots, patches) obscure simple countershading
+
+What is the texture appearance of the breast feathers for the class?
+    1. Smooth and uniform
+    2. Scaled or scalloped appearance
+    3. Soft, fluffy, or downy appearance
+    4. Streaked or spotted texture
+    5. Iridescent or glossy texture
+
+Does the class have a prominent throat pouch or gular sac?
+    1. Yes, a large, obvious gular pouch (e.g., pelican, cormorant, frigatebird)
+    2. Yes, a small or inflatable throat sac used in display (e.g., some grouse - none here)
+    3. Throat feathers may be slightly distended sometimes, but no distinct pouch
+    4. Throat is smooth and feathered
+    5. Beak structure (e.g., large casque) is prominent, but no throat pouch
+
+Is the class primarily black and white in coloration?
+    1. Yes, almost entirely black and white (or dark grey and white)
+    2. Predominantly black and white, but with significant patches of other color (e.g., red, yellow on head/wings)
+    3. Significant amounts of both black and white, but also large areas of grey or brown
+    4. Some black and white markings (e.g., wing bars, tail spots) but not the dominant colors
+    5. Little to no black and white coloration
+
+Does the class frequently hover in place while foraging or hunting?
+    1. Yes, frequently hovers (e.g., hummingbirds, kingfishers, some terns, kestrels - none here)
+    2. Occasionally hovers briefly
+    3. Does not hover, catches prey by diving, pursuing, gleaning, or ground foraging
+    4. Primarily an aerial forager, but soars or swoops rather than hovers
+    5. Primarily a ground or vegetation forager
+
+What shape best describes the wings of the class in flight?
+    1. Long, narrow, pointed wings (seabird, swallow, swift type)
+    2. Broad, rounded wings (forest bird, woodpecker type)
+    3. Moderately long and broad wings, somewhat pointed (gull, crow, generalist type)
+    4. Short, rounded wings (wren, some sparrows)
+    5. Unique wing shape (e.g., deeply slotted primaries for soaring)
+
+Does the class have a distinct facial mask (dark feathers around the eyes/lores)?
+    1. Yes, a prominent black or dark mask
+    2. Yes, a colored mask (e.g., red face patch)
+    3. Mask is faint, broken, or only consists of a line through the eye
+    4. No facial mask, face pattern involves caps, stripes, or uniform color
+    5. Head is entirely dark (hooded)
+
+Is the class known for walking or running on the ground?
+    1. Primarily walks or runs on the ground (e.g., roadrunner, pipit, meadowlark)
+    2. Walks on ground regularly, but also perches frequently
+    3. Hops rather than walks when on the ground
+    4. Rarely seen on the ground, primarily arboreal or aquatic
+    5. Primarily aerial, only lands for nesting or resting
+
+Does the class have white 'mirrors' or spots near the tips of its primary flight feathers?
+    1. Yes, prominent white mirrors/spots on dark primaries (common in gulls)
+    2. Small white or pale spots/tips on primaries
+    3. Primary tips are dark or concolorous with the rest of the wing
+    4. Wings have large white patches, but not specifically isolated 'mirrors' on tips
+    5. Wings are entirely white or very pale
+
+What is the predominant color of the rump and uppertail coverts for the class?
+    1. White or very pale grey
+    2. Yellow, olive, or greenish
+    3. Rufous, chestnut, or buff
+    4. Grey or brown, similar to back color
+    5. Black or dark grey
+
+Does the class have a 'bib' - a patch of color on the throat/upper chest contrasting with the belly?
+    1. Yes, a distinct black or dark bib
+    2. Yes, a distinct colored bib (yellow, red, chestnut)
+    3. Yes, a white or pale bib contrasting with darker underparts
+    4. Bib area is streaked or mottled, not a solid patch
+    5. No bib, throat and breast color are similar or blend gradually
+
+Is the tail length of the class notably long relative to its body size?
+    1. Yes, tail is significantly longer than the body (e.g., Scissor-tailed Flycatcher)
+    2. Tail is moderately long
+    3. Tail is proportionate to body size
+    4. Tail is short or stubby
+    5. Tail shape is unique (e.g., elaborate plumes) making simple length secondary
+
+Does the class have brightly colored facial skin (not feathers)?
+    1. Yes, brightly colored bare skin around the eye or lores (red, blue, yellow)
+    2. Yes, bare facial skin is present but dark or dull-colored
+    3. Face is fully feathered
+    4. Only beak or legs are brightly colored, no facial skin color
+    5. Has wattles or caruncles on the face/head (none in this list?)
+
+What is the appearance of the flanks (sides of the body under the wings) for the class?
+    1. Flanks are distinctly streaked or spotted
+    2. Flanks have a contrasting color patch (e.g., rufous, yellow, black)
+    3. Flanks are the same color as the belly (e.g., white, grey, brown)
+    4. Flanks are slightly darker or lighter shade than the belly
+    5. Flanks are covered by long wings when perched
+
+Does the class often cock its tail upwards (holding it vertically or above horizontal)?
+    1. Yes, habitually holds tail cocked up (like wrens)
+    2. Frequently flicks or pumps tail up and down
+    3. Holds tail straight back or slightly drooped
+    4. Tail is usually fanned or used actively in flight/display
+    5. Tail is very short or absent, so posture isn't applicable
+
+Is the crown (top of the head) streaked?
+    1. Yes, crown is distinctly streaked (brown/black/buff streaks)
+    2. Crown has one or more median stripes (e.g., white central stripe)
+    3. Crown is a solid color (black, grey, brown, rufous)
+    4. Crown color is same as the back, potentially with faint mottling
+    5. Crown has unique pattern (spots, scales) or crest
+
+Does the class have a 'necklace' or breast band (a band of color across the chest)?
+    1. Yes, a distinct black or dark breast band
+    2. Yes, a distinct colored breast band (rufous, yellow) or multiple bands
+    3. Yes, a band of streaks or spots across the chest
+    4. Chest color is uniform or has central spot/patch, but no band
+    5. Chest is entirely dark or entirely light
+
+Is the class primarily found in cold climates (arctic, boreal, high mountains)?
+    1. Yes, predominantly found in cold/northern/alpine regions
+    2. Found in temperate climates, may migrate to colder regions
+    3. Found primarily in temperate or warm climates
+    4. Found primarily in tropical or subtropical climates
+    5. Wide-ranging across multiple climate zones
+
+Does the class have a 'scaly' or 'mottled' pattern on its back or underparts?
+    1. Yes, distinct scaly appearance due to dark feather edges on light feathers
+    2. Yes, mottled or blotchy pattern (less regular than scales)
+    3. Pattern is primarily streaked or barred, not scaled/mottled
+    4. Plumage is mostly plain or has solid color patches
+    5. Plumage is iridescent or glossy, obscuring fine texture
+
+What is the typical flight pattern of the class?
+    1. Direct, fast flight with continuous wing beats
+    2. Undulating flight (flap-flap-glide)
+    3. Slow, flapping flight, perhaps heavy or labored
+    4. Soaring or gliding flight, often circling
+    5. Erratic, fluttering, or bounding flight (e.g., woodpecker, finch)
+
+Does the class have shoulder patches (epaulets) of a contrasting color?
+    1. Yes, bright red or orange shoulder patches
+    2. Yes, yellow or white shoulder patches
+    3. Yes, chestnut or rufous shoulder patches
+    4. Shoulders (lesser coverts) are same color as back or wings
+    5. Shoulders have some mottling or barring but no distinct patch
+
+Is the beak of the class notably stout and thick, suitable for crushing seeds?
+    1. Yes, very thick, conical beak (grosbeak/finch type)
+    2. Moderately thick beak
+    3. Beak is relatively thin and pointed
+    4. Beak is long and thin or specialized (hooked, spatulate)
+    5. Beak is chisel-like or very strong but not primarily conical
+
+Does the class have 'whiskers' or rictal bristles (stiff feathers around the base of the bill)?
+    1. Yes, prominent rictal bristles are visible
+    2. Rictal bristles are present but small or difficult to see
+    3. No noticeable rictal bristles
+    4. Beak shape/size makes this feature hard to assess
+    5. Area around beak has unique feathering (e.g., nasal tufts)
+
+Is the class often seen in large flocks, especially outside the breeding season?
+    1. Yes, commonly forms large flocks (hundreds or thousands)
+    2. Often found in small to medium flocks (dozens)
+    3. Typically found in pairs or small family groups
+    4. Usually solitary
+    5. Forms dense colonies for nesting, but may forage alone or in small groups
+
+Does the class show white wing linings (underside of the wing) contrasting with dark flight feathers in flight?
+    1. Yes, bright white or silvery wing linings
+    2. Pale grey or buffy wing linings
+    3. Wing linings are dark grey or black
+    4. Wing linings are mottled or barred
+    5. Underside of wing is complexly patterned or uniformly pale
+
+What is the color of the lores (area between the eye and the bill) for the class?
+    1. Lores are black or dark, potentially forming a mask or line to the bill
+    2. Lores are white or pale
+    3. Lores are colored (yellow, red, blue skin or feathers)
+    4. Lores are the same color as the surrounding face (grey, brown, olive)
+    5. Lores are indistinct due to overall head pattern
+
+Does the class have exceptionally long central tail feathers (streamers)?
+    1. Yes, very long streamers extending well beyond the rest of the tail
+    2. Central tail feathers are somewhat elongated or pointed, but not extreme streamers
+    3. Tail is forked, notched, or wedge-shaped, but central feathers not elongated
+    4. Tail is square or rounded
+    5. Tail is extremely short or absent
+
+Is the class predominantly grey overall?
+    1. Yes, mostly uniform medium to dark grey
+    2. Mostly light grey or blue-grey
+    3. Grey mixed with significant black, white, or brown patches
+    4. Some grey areas (e.g., head, back) but other colors dominate
+    5. Not significantly grey (mostly brown, black, white, or colorful)
+
+Does the class forage by catching insects in mid-air (sallying)?
+    1. Yes, typical flycatching behavior, sallying from a perch
+    2. Catches insects in flight, but often during continuous flight (swallows, swifts - none here)
+    3. Primarily gleans insects from foliage or bark
+    4. Primarily forages on the ground
+    5. Primarily eats seeds, fruit, fish, or larger prey
+
+What is the appearance of the cheek/auricular area for the class?
+    1. Distinct patch color (e.g., rufous, grey, white) contrasting with rest of face
+    2. Cheek area is same color as throat or crown
+    3. Cheek area is streaked or mottled
+    4. Cheek is part of a broader pattern (e.g., uniform dark head, distinct face mask)
+    5. Cheek area has unique feature (e.g., bare skin, tuft)
+
+How are the undertail coverts patterned for the class (beyond just color)?
+    1. Plain/uniform color (white, buff, rufous, grey, etc.)
+    2. Streaked or spotted
+    3. Barred
+    4. Dark centers or tips to the feathers
+    5. Pattern is indistinct or same complex pattern as belly
+
+What is the shape of the upper ridge (culmen) of the bill for the class?
+    1. Decidedly curved downwards
+    2. Mostly straight
+    3. Slightly convex or arched
+    4. Slightly concave or 'scooped'
+    5. Unique shape (e.g., prominent hook, flattened, has casque/horn)
+
+What is the typical posture of the class when perched?
+    1. Very upright, vertical posture
+    2. Relatively horizontal posture
+    3. Crouched or low posture
+    4. Clings to vertical surfaces (bark, reeds)
+    5. Posture varies greatly or is typically not perched (e.g., swimming, flying)

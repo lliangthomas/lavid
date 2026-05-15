@@ -1,0 +1,629 @@
+What is the predominant color of the class’s head plumage?  
+    1. Black  
+    2. Brown  
+    3. Gray  
+    4. White  
+    5. Red / Orange  
+    6. Yellow  
+    7. Blue / Green  
+
+What is the primary color visible on the class’s throat?  
+    1. Black  
+    2. Brown  
+    3. Gray  
+    4. White  
+    5. Red / Orange  
+    6. Yellow  
+    7. Blue / Green  
+
+Which hue best describes the class’s under-belly?  
+    1. White  
+    2. Cream / Tan  
+    3. Gray  
+    4. Brown  
+    5. Yellow  
+    6. Reddish  
+    7. Very dark  
+
+How would you describe the main pattern on the class’s back?  
+    1. Solid  
+    2. Streaked  
+    3. Spotted  
+    4. Barred  
+    5. Scaled  
+    6. Mottled  
+    7. Checker-like  
+
+How many distinct wing bars does the class show when perched?  
+    1. None  
+    2. One faint  
+    3. One bold  
+    4. Two faint  
+    5. Two bold  
+    6. Three or more  
+    7. Indistinct blend  
+
+What is the overall length of the class’s tail relative to its body?  
+    1. Very short  
+    2. Short  
+    3. Medium  
+    4. Slightly long  
+    5. Long  
+    6. Very long  
+    7. Extremely elongated  
+
+Which description best fits the class’s tail shape in flight?  
+    1. Rounded  
+    2. Square  
+    3. Graduated  
+    4. Slightly forked  
+    5. Deeply forked  
+    6. Wedge-shaped  
+    7. Pointed spear  
+
+How would you rate the class’s bill length compared with its head size?  
+    1. Tiny  
+    2. Short  
+    3. Medium  
+    4. Medium-long  
+    5. Long  
+    6. Very long  
+    7. Extremely oversized  
+
+What is the dominant color of the class’s bill?  
+    1. Black  
+    2. Gray  
+    3. Brown  
+    4. Yellow  
+    5. Orange / Red  
+    6. Blue / Green  
+    7. Bicolored  
+
+Which term best captures the curvature of the class’s bill?  
+    1. Strongly decurved  
+    2. Gently decurved  
+    3. Straight  
+    4. Slightly up-curved  
+    5. Strongly up-curved  
+    6. Hooked at tip  
+    7. Spatulate  
+
+How bulky is the class’s bill at its base?  
+    1. Needle-thin  
+    2. Slender  
+    3. Medium  
+    4. Stout  
+    5. Very stout  
+    6. Deep and chunky  
+    7. Broad with knob  
+
+Does the class show contrasting color at the bill tip?  
+    1. No contrast  
+    2. Pale tip  
+    3. Dark tip  
+    4. Bright red / orange tip  
+    5. Yellow tip  
+    6. Ivory tip  
+    7. Multicolored patch  
+
+What color ring, if any, circles the class’s eye?  
+    1. None  
+    2. White  
+    3. Yellow  
+    4. Orange / Red  
+    5. Pale blue  
+    6. Dark gray / black  
+    7. Bright green  
+
+Which pattern best describes the crown of the class?  
+    1. Solid color  
+    2. Thin streaks  
+    3. Bold streaks  
+    4. Spotted  
+    5. Contrasting hood  
+    6. Two-tone cap and face  
+    7. Patchy mixed  
+
+Does the class possess a crest on its head?  
+    1. None  
+    2. Tiny nub  
+    3. Short rounded tuft  
+    4. Medium pointed crest  
+    5. Long pointed crest  
+    6. Fan-shaped crest  
+    7. Shaggy plumes  
+
+What overall shape does the class’s crest take when raised?  
+    1. Spike  
+    2. Fan  
+    3. Mohawk ridge  
+    4. Flat plate  
+    5. Bulbous knob  
+    6. Flowing tassel  
+    7. Absent or flat  
+
+What is the dominant color of the class’s legs?  
+    1. Black  
+    2. Gray  
+    3. Flesh / Pink  
+    4. Yellow  
+    5. Orange / Red  
+    6. Blue / Green  
+    7. Two-tone  
+
+How long are the class’s legs compared to body depth?  
+    1. Very short  
+    2. Short  
+    3. Medium  
+    4. Medium-long  
+    5. Long  
+    6. Very long  
+    7. Stilt-like  
+
+What contrasting color do the class’s primary flight feathers show?  
+    1. None  
+    2. White patches  
+    3. Pale gray panels  
+    4. Rufous panels  
+    5. Yellow panels  
+    6. Iridescent green / blue  
+    7. Black tips on pale wings  
+
+Which hue is most visible on the class’s secondary flight feathers?  
+    1. Blackish  
+    2. Brown  
+    3. Gray  
+    4. White  
+    5. Cream / Tan  
+    6. Rust / Chestnut  
+    7. Metallic green / blue  
+
+How would you describe the class’s wing shape in sustained flight?  
+    1. Broad rounded  
+    2. Broad pointed  
+    3. Medium rounded  
+    4. Medium pointed  
+    5. Long narrow sickle  
+    6. Long triangular  
+    7. Extremely slender  
+
+What is the predominant color of the class’s under-wing surface?  
+    1. White  
+    2. Pale gray  
+    3. Dark gray  
+    4. Brown  
+    5. Black  
+    6. Rust / Orange  
+    7. Patterned mix  
+
+What color is most apparent on the class’s rump?  
+    1. White  
+    2. Pale gray  
+    3. Dark gray / black  
+    4. Brown  
+    5. Yellow / Buff  
+    6. Red / Rufous  
+    7. Blue / Green  
+
+Which option best matches the class’s tail pattern?  
+    1. Solid  
+    2. Broad terminal band  
+    3. Multiple narrow bands  
+    4. Spotted  
+    5. White outer edges  
+    6. Dark central stripe  
+    7. Irregular mix  
+
+What pattern appears on the class’s throat area?  
+    1. Solid  
+    2. Fine streaks  
+    3. Heavy streaks  
+    4. Spots  
+    5. Patchy color  
+    6. Complete collar  
+    7. Scaled  
+
+Which pattern dominates the class’s breast?  
+    1. Solid  
+    2. Sparse streaks  
+    3. Dense streaks  
+    4. Spots  
+    5. Bars  
+    6. Scales  
+    7. Irregular mixed  
+
+What color most commonly shows on the class’s flanks?  
+    1. White  
+    2. Pale gray  
+    3. Brown  
+    4. Rust / Chestnut  
+    5. Yellow  
+    6. Greenish  
+    7. Dark gray / black  
+
+Does the class show a contrasting facial mask?  
+    1. None  
+    2. Thin dark line through eye  
+    3. Thick dark band across eyes  
+    4. Broad white mask  
+    5. Pale mask on dark face  
+    6. Colorful mask  
+    7. Complex multicolor  
+
+Is a moustachial stripe present on the class?  
+    1. None  
+    2. Thin dark stripe  
+    3. Bold dark stripe  
+    4. Pale stripe on dark face  
+    5. Dark stripe on pale face  
+    6. Double stripe  
+    7. Broken stripe  
+
+What color stands out on the class’s supercilium (eyebrow)?  
+    1. None  
+    2. White  
+    3. Cream / Buff  
+    4. Yellow  
+    5. Rust / Orange  
+    6. Gray  
+    7. Black  
+
+Which hue best describes the class’s nape?  
+    1. Black  
+    2. Gray  
+    3. Brown  
+    4. White  
+    5. Yellow / Green  
+    6. Red / Rufous  
+    7. Iridescent blue / purple  
+
+How large are the white patches on the class’s upper wing?  
+    1. None  
+    2. Tiny spots  
+    3. Small panels  
+    4. Medium panels  
+    5. Large blocks  
+    6. Half-wing white  
+    7. Variable blotches  
+
+Does the class’s plumage show obvious iridescence?  
+    1. None  
+    2. Subtle green  
+    3. Subtle blue  
+    4. Strong green  
+    5. Strong blue  
+    6. Purple sheen  
+    7. Multi-hued sheen  
+
+Which overall body-size category best fits the class?  
+    1. Very small  
+    2. Small  
+    3. Medium  
+    4. Medium-large  
+    5. Large  
+    6. Very large  
+    7. Huge  
+
+Which habitat type does the class primarily occupy?  
+    1. Open ocean  
+    2. Coastal shore  
+    3. Freshwater wetlands  
+    4. Grassland / prairie  
+    5. Shrubland / scrub  
+    6. Deciduous forest  
+    7. Coniferous forest  
+
+Where does the class most often forage for food?  
+    1. In the air  
+    2. Water surface  
+    3. Diving underwater  
+    4. Wading shallows  
+    5. Ground open areas  
+    6. Ground under canopy  
+    7. Canopy foliage  
+
+What silhouette describes the class’s flight style?  
+    1. Slow deep wingbeats  
+    2. Fast direct flapping  
+    3. Erratic fluttering  
+    4. Long gliding arcs  
+    5. Soaring on thermals  
+    6. Hovering  
+    7. Sweeping scissor  
+
+How does the class’s wing length compare to its tail?  
+    1. Much shorter  
+    2. Slightly shorter  
+    3. About equal  
+    4. Slightly longer  
+    5. Clearly longer  
+    6. Very long  
+    7. Extremely long  
+
+Which tail-tip marking best matches the class?  
+    1. Plain tip  
+    2. Pale terminal edge  
+    3. Dark terminal edge  
+    4. White outer corners  
+    5. Yellow / orange corners  
+    6. Central dark wedge  
+    7. Spotted tip  
+
+Does the class have rictal bristles around the bill base?  
+    1. None  
+    2. Very short sparse  
+    3. Short dense  
+    4. Medium sparse  
+    5. Medium dense  
+    6. Long sparse  
+    7. Long dense  
+
+Are the class’s nostrils covered by feathers or bare?  
+    1. Completely bare  
+    2. Partly bare  
+    3. Thin feather fringe  
+    4. Moderate feather cover  
+    5. Heavy feather cover  
+    6. Fully hidden  
+    7. External sheath  
+
+What is the relative length of the class’s neck?  
+    1. Very short  
+    2. Short  
+    3. Medium  
+    4. Moderately long  
+    5. Long  
+    6. Very long  
+    7. Extremely elongated  
+
+Does the class show ornamental plumes during breeding?  
+    1. None  
+    2. Small head plumes  
+    3. Long head plumes  
+    4. Back plumes only  
+    5. Chest plumes only  
+    6. Multiple body plumes  
+    7. Extensive full display  
+
+Which color best matches the class’s undertail coverts?  
+    1. White  
+    2. Pale buff  
+    3. Gray  
+    4. Brown  
+    5. Dark gray / black  
+    6. Yellow / Orange  
+    7. Red / Rufous  
+
+What term most closely fits the brightness of the class’s overall plumage?  
+    1. Dull monochrome  
+    2. Subtle muted tones  
+    3. Soft pastel colors  
+    4. Moderately bright  
+    5. Bright single color  
+    6. Multicolored vivid  
+    7. Highly iridescent  
+
+Which body proportion set best describes the class?  
+    1. Very compact  
+    2. Compact rounded  
+    3. Balanced average  
+    4. Slightly elongated  
+    5. Slender streamlined  
+    6. Robust heavy  
+    7. Extremely slender  
+
+What wing outline appears when the class is soaring?  
+    1. Broad fingered  
+    2. Broad blunt  
+    3. Medium rounded  
+    4. Medium pointed  
+    5. Long narrow  
+    6. Sickle-shaped  
+    7. Needle-pointed  
+
+What color dominates the inner tail feathers of the class?  
+    1. White  
+    2. Gray  
+    3. Brown  
+    4. Black  
+    5. Yellow / Buff  
+    6. Red / Rufous  
+    7. Blue / Green  
+
+What color edges are visible on the class’s scapular feathers?  
+    1. None (uniform)  
+    2. White edging  
+    3. Pale gray edging  
+    4. Buff edging  
+    5. Rust / Chestnut edging  
+    6. Black edging on pale feather  
+    7. Iridescent edging  
+
+Which description best matches the shape of the class’s bill tip?  
+    1. Fine sharp point  
+    2. Slight hook  
+    3. Strong hook  
+    4. Spatula-like  
+    5. Slender decurved  
+    6. Thick chisel  
+    7. Blunt shovel  
+
+What color dominates the class’s throat patch, if present?  
+    1. White  
+    2. Yellow  
+    3. Orange / Red  
+    4. Brown  
+    5. Black  
+    6. Gray  
+    7. Blue / Green  
+
+Which facial pattern typifies the class?  
+    1. Plain face  
+    2. Bold mask  
+    3. Eye line only  
+    4. Cap with contrasting cheeks  
+    5. Full hood  
+    6. Cheek patch  
+    7. Mixed complex  
+
+How deep is the fork in the class’s tail?  
+    1. Square (none)  
+    2. Very shallow  
+    3. Shallow  
+    4. Moderate  
+    5. Deep  
+    6. Very deep  
+    7. Swallow-like  
+
+Does the class show ear-tuft feathers?  
+    1. None  
+    2. Tiny points  
+    3. Small triangles  
+    4. Medium spikes  
+    5. Long narrow tufts  
+    6. Fan-shaped tufts  
+    7. Shaggy tufting  
+
+What texture best describes the class’s crest feathers?  
+    1. Smooth sleek  
+    2. Firm pointed  
+    3. Soft fluffy  
+    4. Shaggy loose  
+    5. Stiff-edged  
+    6. Wispy filamentous  
+    7. Absent  
+
+What is the predominant color of the class’s upper tail coverts?  
+    1. White  
+    2. Pale gray  
+    3. Brown  
+    4. Black  
+    5. Yellow / Buff  
+    6. Red / Rufous  
+    7. Blue / Green  
+
+Which description best matches the pattern on the class’s underparts?  
+    1. Solid  
+    2. Gradient fade  
+    3. Thin streaks  
+    4. Dense streaks  
+    5. Bars  
+    6. Spots  
+    7. Scales  
+
+Is a contrasting stripe visible down the class’s belly?  
+    1. None  
+    2. Faint narrow  
+    3. Bold narrow  
+    4. Faint wide  
+    5. Bold wide  
+    6. Broken stripe  
+    7. Patchy  
+
+What color appears on the webbing of the class’s feet?  
+    1. Black  
+    2. Gray  
+    3. Brown  
+    4. Yellow  
+    5. Orange / Red  
+    6. Pink  
+    7. Blue / Green  
+
+Does the class exhibit a swollen knob or plate at the bill base?  
+    1. None  
+    2. Tiny bump  
+    3. Small smooth plate  
+    4. Medium smooth plate  
+    5. Large smooth plate  
+    6. Rough ridged knob  
+    7. Massive helmet  
+
+Which water salinity does the class most often occupy?  
+    1. Freshwater lakes  
+    2. Freshwater rivers  
+    3. Brackish marsh  
+    4. Coastal estuary  
+    5. Coastal marine  
+    6. Open ocean pelagic  
+    7. Mostly terrestrial  
+
+What is the primary color of the class’s iris?  
+    1. Dark brown  
+    2. Pale brown  
+    3. Amber  
+    4. Red  
+    5. Orange  
+    6. Yellow  
+    7. Blue / Gray  
+
+How wide is the pale trailing edge on the class’s wings in flight?  
+    1. Absent  
+    2. Very narrow line  
+    3. Narrow band  
+    4. Medium band  
+    5. Wide band  
+    6. Whole secondaries pale  
+    7. Entire wing pale  
+
+Does the class show a contrasting collar separating head and breast?  
+    1. None  
+    2. Thin pale collar  
+    3. Thick pale collar  
+    4. Thin dark collar  
+    5. Thick dark collar  
+    6. Bright colored collar  
+    7. Irregular collar  
+
+What is the sheen color visible on the class’s tail in bright light?  
+    1. None (matte)  
+    2. Green sheen  
+    3. Blue sheen  
+    4. Purple sheen  
+    5. Bronze sheen  
+    6. Multi-hued sheen  
+    7. Metallic silver sheen  
+
+Which degree of wing camber is noticeable when the class glides?  
+    1. Flat wings  
+    2. Slight camber  
+    3. Moderate camber  
+    4. Deep camber  
+    5. Very deep camber  
+    6. Variable camber  
+    7. Inverted gull-wing  
+
+How many toes of the class are connected by webbing?  
+    1. None  
+    2. Front two partially  
+    3. Front two fully  
+    4. Front three partially  
+    5. Front three fully  
+    6. All four partially  
+    7. All four fully  
+
+What ground cover color does the class prefer for nesting?  
+    1. Bare soil  
+    2. Sand  
+    3. Pebbles  
+    4. Short grass  
+    5. Tall grass  
+    6. Leaf litter  
+    7. Dense shrubs  
+
+Which season shows the most drastic plumage change for the class?  
+    1. None (static)  
+    2. Early spring  
+    3. Late spring  
+    4. Summer  
+    5. Autumn  
+    6. Early winter  
+    7. Late winter  
+
+What altitude band does the class typically choose for migration flights?  
+    1. Near ground  
+    2. Low (< 300 m)  
+    3. Mid (300–900 m)  
+    4. High (900–1500 m)  
+    5. Very high (> 1500 m)  
+    6. Variable any height  
+    7. Mostly over water  

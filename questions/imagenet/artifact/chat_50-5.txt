@@ -1,0 +1,349 @@
+What material is the class primarily made from?
+    1. Fabric
+    2. Wood
+    3. Metal
+    4. Stone
+    5. Glass
+
+Is the class typically found indoors or outdoors?
+    1. Always indoors
+    2. Always outdoors
+    3. Both equally
+    4. Mostly indoors
+    5. Mostly outdoors
+
+Is the class associated more with clothing, shelter, or tools?
+    1. Clothing
+    2. Shelter
+    3. Tools
+    4. Decoration
+    5. Storage
+
+Does the class interact directly with weather elements?
+    1. Fully exposed
+    2. Partially exposed
+    3. Mostly sheltered
+    4. Always indoors
+    5. Weather-resistant by design
+
+Is the size of the class relative to a human usually larger or smaller?
+    1. Much larger
+    2. Slightly larger
+    3. About the same size
+    4. Slightly smaller
+    5. Much smaller
+
+Is the class designed for humans to enter?
+    1. Yes, always
+    2. Yes, sometimes
+    3. No, never
+    4. Only certain parts
+    5. Depends on the environment
+
+Is the class mainly functional, decorative, or both?
+    1. Functional
+    2. Decorative
+    3. Both equally
+    4. Primarily ceremonial
+    5. Primarily practical
+
+Is the surface of the class typically rough, smooth, or textured?
+    1. Smooth
+    2. Rough
+    3. Highly textured
+    4. Mixed textures
+    5. Soft
+
+Is the class generally associated with modern or ancient settings?
+    1. Ancient
+    2. Modern
+    3. Both
+    4. Rustic
+    5. Futuristic
+
+Is the class likely to be colorful?
+    1. Highly colorful
+    2. Muted colors
+    3. Single color
+    4. Patterned
+    5. No color (neutral)
+
+Does the class have openings like windows or doors?
+    1. Yes, always
+    2. Yes, sometimes
+    3. No openings
+    4. Openings but no doors
+    5. Only small holes
+
+Is the class used mainly for protection, comfort, or presentation?
+    1. Protection
+    2. Comfort
+    3. Presentation
+    4. Containment
+    5. Communication
+
+Is the class meant to be portable?
+    1. Yes, handheld
+    2. Yes, transportable
+    3. No, stationary
+    4. Partially portable
+    5. Designed to move but not easily
+
+Is the class typically worn on the body?
+    1. Worn around the chest
+    2. Worn on the feet
+    3. Worn over the head
+    4. Worn across the shoulders
+    5. Not worn
+
+Is the class associated with a specific profession or activity?
+    1. Religion
+    2. Agriculture
+    3. Medicine
+    4. Entertainment
+    5. Security
+
+Is the shape of the class mostly round, rectangular, or irregular?
+    1. Round
+    2. Rectangular
+    3. Irregular
+    4. Angular
+    5. Fluid
+
+Does the class commonly feature vertical structures?
+    1. Prominent vertical elements
+    2. Subtle vertical elements
+    3. Horizontal focus
+    4. No structural emphasis
+    5. Balanced
+
+Does the class primarily serve an individual or a group?
+    1. Individual
+    2. Small group
+    3. Large group
+    4. Community
+    5. Entire population
+
+Is the class part of a larger structure?
+    1. Integral to larger structure
+    2. Attached externally
+    3. Separate but adjacent
+    4. Standalone
+    5. Embedded within
+
+Is the class associated with light, water, air, or earth?
+    1. Light
+    2. Water
+    3. Air
+    4. Earth
+    5. Fire
+
+Is the primary visual texture of the class hard, soft, or flexible?
+    1. Hard
+    2. Soft
+    3. Flexible
+    4. Mixed
+    5. Delicate
+
+Is the class typically symmetrical or asymmetrical?
+    1. Highly symmetrical
+    2. Mildly symmetrical
+    3. Asymmetrical
+    4. Patterned but uneven
+    5. No obvious pattern
+
+Is the class made to enclose something or someone?
+    1. Completely enclosed
+    2. Partially enclosed
+    3. Open structure
+    4. Protective barrier
+    5. Transparent enclosure
+
+Is the class likely found in a city or rural setting?
+    1. Only city
+    2. Only rural
+    3. Both city and rural
+    4. More city than rural
+    5. More rural than city
+
+Is the class associated with a place of business or leisure?
+    1. Business
+    2. Leisure
+    3. Both
+    4. Neither
+    5. Sacred place
+
+Is the primary form of the class organic or geometric?
+    1. Purely geometric
+    2. Mostly geometric
+    3. Organic shapes
+    4. Combination
+    5. Irregular natural
+
+Is the class typically made by hand or machine?
+    1. Handmade
+    2. Machine-made
+    3. Both
+    4. Hand-finished
+    5. Natural formation
+
+Is the class covered, open, or both?
+    1. Fully covered
+    2. Fully open
+    3. Partial cover
+    4. Retractable
+    5. Semi-open
+
+Is the class associated with a building or standalone?
+    1. Part of a building
+    2. Standalone object
+    3. Adjacent structure
+    4. Interior fixture
+    5. Exterior feature
+
+Is the primary purpose of the class consumption, storage, or defense?
+    1. Consumption
+    2. Storage
+    3. Defense
+    4. Display
+    5. Communication
+
+Does the class incorporate elements that are transparent or translucent?
+    1. Transparent
+    2. Translucent
+    3. Opaque
+    4. Mixed transparency
+    5. Reflective
+
+Is the class typically meant for vertical or horizontal use?
+    1. Vertical use
+    2. Horizontal use
+    3. Both
+    4. Shifting orientations
+    5. No clear orientation
+
+Does the class primarily serve a religious, military, or domestic purpose?
+    1. Religious
+    2. Military
+    3. Domestic
+    4. Recreational
+    5. Commercial
+
+Is the class commonly associated with movement or stillness?
+    1. Constant movement
+    2. Occasional movement
+    3. Static
+    4. Moving parts only
+    5. Mobile structure
+
+Is the class soft to the touch?
+    1. Very soft
+    2. Moderately soft
+    3. Slightly soft
+    4. Not soft
+    5. Variable
+
+Is the class likely made of natural or synthetic materials?
+    1. Only natural
+    2. Mostly natural
+    3. Balanced
+    4. Mostly synthetic
+    5. Entirely synthetic
+
+Is the class something one would typically find underwater, underground, on land, in the sky, or across elements?
+    1. Underwater
+    2. Underground
+    3. On land
+    4. In the sky
+    5. Across elements
+
+Does the class involve flowing shapes or rigid forms?
+    1. Highly flowing
+    2. Moderately flowing
+    3. Rigid
+    4. Mixed
+    5. Fragmented
+
+Is the class designed primarily for viewing, touching, or interacting?
+    1. Viewing
+    2. Touching
+    3. Interacting
+    4. Multi-sensory
+    5. Passive experience
+
+Is the class layered in construction?
+    1. Single layer
+    2. Double layer
+    3. Multi-layered
+    4. Variable layering
+    5. Invisible layers
+
+Is the class tall, wide, or compact in its design?
+    1. Tall
+    2. Wide
+    3. Compact
+    4. Sprawling
+    5. Elongated
+
+Does the class involve fabric, leather, stone, metal, or wood?
+    1. Fabric
+    2. Leather
+    3. Stone
+    4. Metal
+    5. Wood
+
+Is the class related to travel, residence, or ceremony?
+    1. Travel
+    2. Residence
+    3. Ceremony
+    4. Agriculture
+    5. Art
+
+Is the class temporary or permanent?
+    1. Permanent
+    2. Temporary
+    3. Semi-permanent
+    4. Seasonal
+    5. Easily movable
+
+Is the class shaped by artistic design or pure function?
+    1. Artistic design
+    2. Pure function
+    3. Balanced
+    4. Primarily practical
+    5. Primarily symbolic
+
+Is the class an individual unit or part of a collection?
+    1. Individual unit
+    2. Set of two
+    3. Collection
+    4. Modular
+    5. Interlocking
+
+Is the class typically solid, hollow, or mixed?
+    1. Solid
+    2. Hollow
+    3. Mixed
+    4. Layered
+    5. Fragmented
+
+Is the class used at ground level, elevated, or underground?
+    1. Ground level
+    2. Elevated
+    3. Underground
+    4. Variable
+    5. Multiple levels
+
+Is the class primarily aesthetic, functional, symbolic, utilitarian, or ceremonial?
+    1. Aesthetic
+    2. Functional
+    3. Symbolic
+    4. Utilitarian
+    5. Ceremonial
+
+Is the class associated with daily life, special events, emergencies, historical settings, or fantasy?
+    1. Daily life
+    2. Special events
+    3. Emergencies
+    4. Historical settings
+    5. Fantasy
