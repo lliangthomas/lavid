@@ -1,5 +1,5 @@
 # Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge (ICML 2026)
-Thomas S.C. Liang*, Zhuoran Yu*, Yong Jae Lee
+Thomas Shih-Chao Liang*, Zhuoran Yu*, Yong Jae Lee
 
 ## Installation
 
